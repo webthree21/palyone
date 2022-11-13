@@ -79,7 +79,7 @@
 	"02ef": function(t) {
 		t.exports = JSON.parse(
 			'{"contractName":"DOGI","abi":[{"inputs":[],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"spender","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"oldGov","type":"address"},{"indexed":false,"internalType":"address","name":"newGov","type":"address"}],"name":"NewGov","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"oldPendingGov","type":"address"},{"indexed":false,"internalType":"address","name":"newPendingGov","type":"address"}],"name":"NewPendingGov","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Transfer","type":"event"},{"constant":true,"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"spender","type":"address"}],"name":"allowance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"approve","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"cap","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"decimals","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"subtractedValue","type":"uint256"}],"name":"decreaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"governance","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"addedValue","type":"uint256"}],"name":"increaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"minters","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"name","outputs":[{"internalType":"string","name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"pendingGov","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"internalType":"string","name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transfer","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"sender","type":"address"},{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transferFrom","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"_account","type":"address"},{"internalType":"uint256","name":"_amount","type":"uint256"}],"name":"mint","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"_minter","type":"address"}],"name":"addMinter","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"_minter","type":"address"}],"name":"removeMinter","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"internalType":"address","name":"_pendingGov","type":"address"}],"name":"setPendingGov","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[],"name":"acceptGov","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"}],"address":"0xB0f42Db8bd5a68A0c7029B9598738FF4E341433A"}'
-			)
+		)
 	},
 	"050b": function(t, e) {
 		t.exports =
@@ -106,7 +106,7 @@
 	1328: function(t) {
 		t.exports = JSON.parse(
 			'{"v":"5.6.9","fr":30,"ip":0,"op":120,"w":743,"h":744,"nm":"pinpaibiaoshi_QQyinle","ddd":0,"assets":[],"layers":[{"ddd":0,"ind":1,"ty":1,"nm":"白色 纯色 1","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":1,"k":[{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[0]},{"t":120,"s":[360]}],"ix":10},"p":{"a":0,"k":[371,372,0],"ix":2},"a":{"a":0,"k":[371.5,372,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"hasMask":true,"masksProperties":[{"inv":false,"mode":"f","pt":{"a":0,"k":{"i":[[0,0],[17.918,-4.222],[20.804,0.25],[6.148,-0.852],[1.57,-3.438],[-2.136,-3.117],[-9.985,-16.77],[-8.961,-14.848],[-10.75,-18.43],[-2.051,-4.098],[4.734,0.254],[12.578,-5.078],[9.054,-21.871],[-2.683,-12.371],[-24.414,-8.051],[-7.039,-0.875],[-12.391,2.461],[-8.262,3.68],[-8.027,13.863],[10.328,19.641],[6.015,10.754],[8.32,14.336],[10.75,18.562],[2.304,4.867],[-20.855,49.27],[0,0],[-1.023,-9.09],[-2.887,-1.957],[-10.508,-42.34],[1.894,-21.097],[5.418,-15.305],[6.66,-11.523],[19.723,-14.856],[14.531,-6.16],[16.867,-2.328],[16.996,2.23],[19.141,9.938],[18.512,38.527],[2.493,16.856],[0.235,11.668],[-30.301,34.911],[-23.805,10.996],[-11.883,3.477],[-22.535,-2.582],[-11.043,-3.07],[-4.676,-1.844],[-1.363,-0.886]],"o":[[-17.664,5.121],[-20.258,4.758],[-6.208,-0.168],[-3.754,0.418],[-1.574,3.433],[9.731,17.407],[8.449,14.847],[10.621,18.433],[1.793,2.945],[-6.145,-0.641],[-13.539,-0.868],[-22.258,8.055],[-4.77,11.726],[5.497,25.109],[6.246,3.355],[12.555,1.36],[8.769,-2.195],[14.414,-6.988],[11.281,-19.105],[-5.761,-11.137],[-8.192,-14.336],[-10.754,-18.688],[-2.305,-3.969],[47.152,-25.277],[0,0],[1.539,8.957],[-0.004,3.485],[34.863,26.219],[4.864,20.617],[-1.039,16.204],[-4.582,12.496],[-12.473,21.309],[-12.676,9.402],[-15.668,6.676],[-16.996,2.23],[-21.407,-2.59],[-37.976,-19.617],[-7.516,-15.293],[-1.898,-11.516],[0.438,-46.227],[17.011,-19.953],[11.304,-5.047],[21.84,-6.133],[11.371,1.445],[4.871,1.227],[1.449,0.734],[0,0]],"v":[[442.745,197.199],[389.628,212.429],[327.803,219.214],[309.24,220.238],[300.654,226.449],[301.56,237.007],[331.385,288.207],[356.986,332.879],[389.37,387.918],[394.49,398.031],[379.003,396.625],[339.322,403.023],[290.17,450],[286.97,486.992],[335.224,540.496],[355.322,546.895],[392.956,545.23],[418.553,536.398],[452.986,504.398],[454.521,442.062],[435.706,409.551],[411.003,366.543],[378.62,310.734],[372.089,297.934],[477.177,182.734],[478.584,183.632],[482.935,210.511],[487.545,219.214],[557.689,325.199],[562.171,388.175],[552.439,435.664],[535.546,471.758],[486.775,526.543],[445.818,549.969],[396.795,563.536],[345.592,563.536],[284.279,544.589],[197.24,454.992],[182.138,406.48],[178.935,371.664],[226.553,245.969],[288.506,198.992],[323.322,186.191],[390.521,180.816],[424.185,187.597],[438.521,192.207],[442.745,194.64]],"c":true},"ix":1},"o":{"a":0,"k":100,"ix":3},"x":{"a":0,"k":0,"ix":4},"nm":"蒙版 1"}],"sw":743,"sh":744,"sc":"#ffffff","ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":4,"nm":"形状图层 2","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[0]},{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":80,"s":[100]},{"t":120,"s":[0]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[370.319,366.556,0],"ix":2},"a":{"a":0,"k":[0,0,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.833,0.833,0.833],"y":[0.833,0.833,0.833]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"t":0,"s":[92.91,92.91,100]},{"t":120,"s":[136.105,136.105,100]}],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[420,420],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"椭圆路径 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"fl","c":{"a":0,"k":[0.149738865273,0.016593617084,0.325490196078,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"填充 1","mn":"ADBE Vector Graphic - Fill","hd":false},{"ty":"tr","p":{"a":0,"k":[0.5,4],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"椭圆 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":3,"ty":4,"nm":"形状图层 1","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[371,372,0],"ix":2},"a":{"a":0,"k":[3.5,-1,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[586,586],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"椭圆路径 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"fl","c":{"a":0,"k":[0.335943513758,0.088366011077,0.662745098039,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"填充 1","mn":"ADBE Vector Graphic - Fill","hd":false},{"ty":"tr","p":{"a":0,"k":[3.5,-1],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"椭圆 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0}],"markers":[]}'
-			)
+		)
 	},
 	14: function(t, e) {},
 	1471: function(t, e, a) {},
@@ -318,7 +318,7 @@
 	"2cb0": function(t) {
 		t.exports = JSON.parse(
 			'{"v":"5.6.9","fr":30,"ip":0,"op":102,"w":1080,"h":320,"nm":"合成 1","ddd":0,"assets":[{"id":"image_0","w":48,"h":92,"u":"spacepi_copy/","p":"img_0.png","e":0},{"id":"image_1","w":48,"h":92,"u":"spacepi_copy/","p":"img_1.png","e":0},{"id":"image_2","w":44,"h":92,"u":"spacepi_copy/","p":"img_2.png","e":0},{"id":"image_3","w":52,"h":92,"u":"spacepi_copy/","p":"img_3.png","e":0},{"id":"image_4","w":48,"h":92,"u":"spacepi_copy/","p":"img_4.png","e":0},{"id":"image_5","w":48,"h":92,"u":"spacepi_copy/","p":"img_5.png","e":0},{"id":"image_6","w":48,"h":92,"u":"spacepi_copy/","p":"img_6.png","e":0},{"id":"image_7","w":48,"h":92,"u":"spacepi_copy/","p":"img_7.png","e":0},{"id":"image_8","w":48,"h":92,"u":"spacepi_copy/","p":"img_8.png","e":0},{"id":"image_9","w":48,"h":92,"u":"spacepi_copy/","p":"img_9.png","e":0},{"id":"image_10","w":48,"h":92,"u":"spacepi_copy/","p":"img_10.png","e":0},{"id":"image_11","w":48,"h":92,"u":"spacepi_copy/","p":"img_11.png","e":0},{"id":"image_12","w":48,"h":92,"u":"spacepi_copy/","p":"img_12.png","e":0},{"id":"image_13","w":44,"h":92,"u":"spacepi_copy/","p":"img_13.png","e":0},{"id":"image_14","w":44,"h":92,"u":"spacepi_copy/","p":"img_14.png","e":0},{"id":"image_15","w":52,"h":92,"u":"spacepi_copy/","p":"img_15.png","e":0},{"id":"image_16","w":218,"h":158,"u":"spacepi_copy/","p":"img_16.png","e":0}],"layers":[{"ddd":0,"ind":1,"ty":2,"nm":"c.png","cl":"png","refId":"image_0","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":31,"s":[352,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":38,"s":[352,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":2,"nm":"o.png","cl":"png","refId":"image_1","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":30,"s":[396,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":37,"s":[396,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":3,"ty":2,"nm":"p.png","cl":"png","refId":"image_2","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":29,"s":[442,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":36,"s":[442,157,0]}],"ix":2},"a":{"a":0,"k":[22,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":4,"ty":2,"nm":"y-1.png","cl":"png","refId":"image_3","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":28,"s":[482,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":35,"s":[482,157,0]}],"ix":2},"a":{"a":0,"k":[26,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":5,"ty":2,"nm":"s-1.png","cl":"png","refId":"image_4","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":27,"s":[543,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":34,"s":[543,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":6,"ty":2,"nm":"u.png","cl":"png","refId":"image_5","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":26,"s":[582.727,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":33,"s":[582.727,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":7,"ty":2,"nm":"c-1.png","cl":"png","refId":"image_6","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":25,"s":[622.455,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":32,"s":[622.455,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":8,"ty":2,"nm":"c-2.png","cl":"png","refId":"image_7","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":24,"s":[662.182,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":31,"s":[662.182,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":9,"ty":2,"nm":"e.png","cl":"png","refId":"image_8","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":23,"s":[701.909,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":30,"s":[701.909,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":10,"ty":2,"nm":"s.png","cl":"png","refId":"image_9","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":22,"s":[741.636,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":29,"s":[741.636,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":11,"ty":2,"nm":"s-2.png","cl":"png","refId":"image_10","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":21,"s":[781.364,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":28,"s":[781.364,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":12,"ty":2,"nm":"f.png","cl":"png","refId":"image_11","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":20,"s":[821.091,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":27,"s":[821.091,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":13,"ty":2,"nm":"u-1.png","cl":"png","refId":"image_12","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":19,"s":[860.818,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":26,"s":[860.818,157,0]}],"ix":2},"a":{"a":0,"k":[24,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":14,"ty":2,"nm":"l.png","cl":"png","refId":"image_13","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":18,"s":[900.545,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":25,"s":[900.545,157,0]}],"ix":2},"a":{"a":0,"k":[22,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":15,"ty":2,"nm":"l-1.png","cl":"png","refId":"image_14","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":17,"s":[940.273,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":24,"s":[940.273,157,0]}],"ix":2},"a":{"a":0,"k":[22,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":16,"ty":2,"nm":"y.png","cl":"png","refId":"image_15","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":16,"s":[980,-54,0],"to":[0,35.167,0],"ti":[0,-35.167,0]},{"t":23,"s":[980,157,0]}],"ix":2},"a":{"a":0,"k":[26,46,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":17,"ty":2,"nm":"路径 287.png","cl":"png","refId":"image_16","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":5,"s":[540,160,0],"to":[-0.5,40.333,0],"ti":[0.5,-40.333,0]},{"t":10,"s":[537,402,0]}],"ix":2},"a":{"a":0,"k":[109,79,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.833,0.833,0.833],"y":[0.833,0.833,0.833]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"t":0,"s":[100,100,100]},{"i":{"x":[0.833,0.833,0.833],"y":[0.833,0.833,0.833]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"t":2,"s":[70,70,100]},{"t":5,"s":[100,100,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":18,"ty":4,"nm":"形状图层 4","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":8,"s":[536.1,-110,0],"to":[0,44.667,0],"ti":[0,-44.667,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":12,"s":[536.1,158,0],"to":[0,0,0],"ti":[0,0,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":16,"s":[536.1,158,0],"to":[0,0,0],"ti":[0,0,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":25,"s":[536.1,158,0],"to":[-57,0,0],"ti":[57,0,0]},{"t":38,"s":[194.1,158,0]}],"ix":2},"a":{"a":0,"k":[-98,-2,0],"ix":1},"s":{"a":0,"k":[525.714,525.714,100],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[34,34],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"椭圆路径 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"st","c":{"a":0,"k":[0.4,0.2,0.596078431373,1],"ix":3},"o":{"a":0,"k":100,"ix":4},"w":{"a":0,"k":2,"ix":5},"lc":1,"lj":1,"ml":4,"bm":0,"nm":"描边 1","mn":"ADBE Vector Graphic - Stroke","hd":false},{"ty":"tr","p":{"a":0,"k":[-98,-2],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"椭圆 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":19,"ty":4,"nm":"形状图层 3","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":10,"s":[0]},{"t":18,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":8,"s":[532.281,-111,0],"to":[0,44.833,0],"ti":[0,-44.833,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":12,"s":[532.281,158,0],"to":[0,0,0],"ti":[0,0,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":16,"s":[532.281,158,0],"to":[0,0,0],"ti":[0,0,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"t":25,"s":[532.281,158,0],"to":[-57,0,0],"ti":[57,0,0]},{"t":38,"s":[190.281,158,0]}],"ix":2},"a":{"a":0,"k":[-97.188,0.953,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.833,0.833,0.833],"y":[0.833,0.833,0.833]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"t":10,"s":[0,0,100]},{"t":18,"s":[458.806,458.806,100]}],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"ind":0,"ty":"sh","ix":1,"ks":{"a":0,"k":{"i":[[0,0],[0,0],[0,0]],"o":[[0,0],[0,0],[0,0]],"v":[[-107.656,1.176],[-100.906,8.75],[-86.719,-6.844]],"c":false},"ix":2},"nm":"路径 1","mn":"ADBE Vector Shape - Group","hd":false},{"ty":"st","c":{"a":0,"k":[0.105882352941,0.772549019608,0.486274509804,1],"ix":3},"o":{"a":0,"k":100,"ix":4},"w":{"a":0,"k":2,"ix":5},"lc":1,"lj":1,"ml":4,"bm":0,"nm":"描边 1","mn":"ADBE Vector Graphic - Stroke","hd":false},{"ty":"tr","p":{"a":0,"k":[0,0],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"形状 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0}],"markers":[]}'
-			)
+		)
 	},
 	3: function(t, e) {},
 	"363b": function(t, e, a) {},
@@ -374,7 +374,7 @@
 			tetxbu: "阅读白皮书",
 			tetxbu_url: "https://drive.google.com/file/d/1SM-Cf646IGJ1_NDHJsMHABOi9f12xtvo/view?usp=sharing",
 			contractAddress: "",
-			down: ["购买SpacePi"],
+			down: ["购买Pi Network"],
 			index_Liquidity_title: "流动性锁定",
 			index_Liquidity: "https://dxsale.app/app/v3_3/dxlockview?id=0&add=0x7f1b11a798273dA438b4b132dF1383d8387e73b4&type=lplock&chain=BSC",
 			index_Goplus_title: "Goplus 检测",
@@ -540,7 +540,7 @@
 	5056: function(t) {
 		t.exports = JSON.parse(
 			'{"contractName":"spacePi","abi":[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"spender","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"minTokensBeforeSwap","type":"uint256"}],"name":"MinTokensBeforeSwapUpdated","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"tokensSwapped","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"ethReceived","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"tokensIntoLiqudity","type":"uint256"}],"name":"SwapAndLiquify","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"bool","name":"enabled","type":"bool"}],"name":"SwapAndLiquifyEnabledUpdated","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"Transfer","type":"event"},{"inputs":[],"name":"_liquidityFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"_maxTxAmount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"_owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"_taxFee","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"geUnlockTime","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"uint256","name":"time","type":"uint256"}],"name":"lock","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"numTokensSellToAddToLiquidity","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"swapAndLiquifyEnabled","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"uniswapV2Pair","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"uniswapV2Router","outputs":[{"internalType":"contract IUniswapV2Router02","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"unlock","outputs":[],"stateMutability":"nonpayable","type":"function"},{"stateMutability":"payable","type":"receive","payable":true},{"inputs":[],"name":"name","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"symbol","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"decimals","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transfer","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"spender","type":"address"}],"name":"allowance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"approve","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"sender","type":"address"},{"internalType":"address","name":"recipient","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"transferFrom","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"addedValue","type":"uint256"}],"name":"increaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"spender","type":"address"},{"internalType":"uint256","name":"subtractedValue","type":"uint256"}],"name":"decreaseAllowance","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"isExcludedFromReward","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalFees","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"uint256","name":"tAmount","type":"uint256"}],"name":"deliver","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"tAmount","type":"uint256"},{"internalType":"bool","name":"deductTransferFee","type":"bool"}],"name":"reflectionFromToken","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"uint256","name":"rAmount","type":"uint256"}],"name":"tokenFromReflection","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"excludeFromReward","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"includeInReward","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"excludeFromFee","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"includeInFee","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"taxFee","type":"uint256"}],"name":"setTaxFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"liquidityFee","type":"uint256"}],"name":"setLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"swapNumber","type":"uint256"}],"name":"setNumTokensSellToAddToLiquidity","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"maxTxPercent","type":"uint256"}],"name":"setMaxTxPercent","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bool","name":"_enabled","type":"bool"}],"name":"setSwapAndLiquifyEnabled","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"claimTokens","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"isExcludedFromFee","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true}],"address":"0x259a5f830f71e22717d02c529ec62ffa248087b9"}'
-			)
+		)
 	},
 	"56d7": function(t, e, a) {
 		"use strict";
@@ -582,7 +582,7 @@
 					staticClass: "text-h5"
 				}, [t._v(" warning ")]), i("v-card-text", [t._v(
 					" The browser does not support music playback. Click to play "
-					)]), i("v-card-actions", [i("v-spacer"), i("v-btn", {
+				)]), i("v-card-actions", [i("v-spacer"), i("v-btn", {
 					attrs: {
 						color: "darken-1",
 						text: ""
@@ -657,19 +657,19 @@
 					}), i("div", {
 						staticClass: "tabs-s"
 					}, [i("span", [t._v(" " + t._s(
-								e[t.locale]
-								) + " ")]), 1 == e
+							e[t.locale]
+						) + " ")]), 1 == e
 						.picture_status ? i(
-						"v-img", {
-							staticClass: "tabs-img",
-							attrs: {
-								src: e.picture
-							},
-							on: {
-								click: t
-									.returnTop
-							}
-						}) : t._e()
+							"v-img", {
+								staticClass: "tabs-img",
+								attrs: {
+									src: e.picture
+								},
+								on: {
+									click: t
+										.returnTop
+								}
+							}) : t._e()
 					], 1)])])
 				}))], 2), i("v-spacer"), i("div", {
 					staticClass: "locale"
@@ -698,7 +698,8 @@
 								staticClass: "locale-img",
 								attrs: {
 									src: a(
-										"0ad3")
+										"0ad3"
+									)
 								}
 							})], 1), t._l(t
 								.localeData, (
@@ -719,14 +720,14 @@
 														t
 														._s(e
 															.name
-															) +
+														) +
 														" "
-														)]
-													) :
+													)]
+												) :
 												t
 												._e()
 											]
-											)
+										)
 									}))], 2)]
 						}
 					}])
@@ -822,7 +823,8 @@
 						}, [i("span", [t._v(
 								" " + t
 								._s(e[t
-									.locale]) +
+									.locale
+								]) +
 								" ")]), 1 == e
 							.picture_status ? i(
 								"v-img", {
@@ -867,7 +869,8 @@
 										staticClass: "locale-img",
 										attrs: {
 											src: a(
-												"0ad3")
+												"0ad3"
+											)
 										}
 									})], 1),
 								t._l(t
@@ -875,7 +878,7 @@
 									(function(
 										e,
 										a
-										) {
+									) {
 										return i(
 											"div", {
 												key: a,
@@ -891,14 +894,14 @@
 														t
 														._s(e
 															.name
-															) +
+														) +
 														" "
-														)]
-													) :
+													)]
+												) :
 												t
 												._e()
 											]
-											)
+										)
 									}))
 							], 2)]
 						}
@@ -912,7 +915,7 @@
 									.localeClick(
 										e
 										.key
-										)
+									)
 							}
 						}
 					}, [i("v-list-item-title", [
@@ -1074,13 +1077,14 @@
 					isMobile: function() {
 						var t = navigator.userAgent.match(
 							/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i
-							);
+						);
 						return t
 					},
 					getMenu: function() {
 						var t = this;
 						p.a.post(this.domainUrl + "spacepiMenu").then((function(e) {
-							t.menu = e.data.data
+							// console.log(e.data.data)
+							// t.menu = e.data.data
 						})).catch((function(t) {}))
 					},
 					poenUrl: function(t) {
@@ -1195,11 +1199,11 @@
 											on: {
 												click: function(
 													e
-													) {
+												) {
 													return t
 														.carousel(
 															"up"
-															)
+														)
 												}
 											}
 										},
@@ -1213,7 +1217,8 @@
 										},
 										attrs: {
 											src: a(
-												"a0c8")
+												"a0c8"
+											)
 										}
 									})], 1)])]
 							}
@@ -1227,11 +1232,11 @@
 											on: {
 												click: function(
 													e
-													) {
+												) {
 													return t
 														.carousel(
 															"down"
-															)
+														)
 												}
 											}
 										},
@@ -1245,7 +1250,8 @@
 										},
 										attrs: {
 											src: a(
-												"58b8")
+												"58b8"
+											)
 										}
 									})], 1)])]
 							}
@@ -1311,12 +1317,12 @@
 										on: {
 											click: function(
 												e
-												) {
+											) {
 												return t
 													.spacepiTo(
 														a
 														.link
-														)
+													)
 											}
 										}
 									}) :
@@ -1332,7 +1338,7 @@
 						}, [i("v-progress-linear", {
 							attrs: {
 								"background-color": "rgba(253, 211, 51, 0.6)",
-								color: "#FDD333",
+								color: "#FFB44E",
 								value: e
 							},
 							on: {
@@ -1379,7 +1385,8 @@
 				}, [i("v-img", {
 					attrs: {
 						src: a(
-							"cf93")
+							"cf93"
+						)
 					}
 				})], 1)]), i("div", {
 					staticClass: "character-img"
@@ -1396,7 +1403,7 @@
 				}, [t._v(" " + t._s(t
 					.$t("car")[
 						0].title
-					) + " ")]), i("div", {
+				) + " ")]), i("div", {
 					staticClass: "what-content"
 				}, [t._v(" " + t._s(t
 						.$t("car")[
@@ -1417,7 +1424,7 @@
 				}, [t._v(" " + t._s(t
 					.$t("car")[
 						1].title
-					) + " ")]), i("div", {
+				) + " ")]), i("div", {
 					staticClass: "what-content"
 				}, [t._v(" " + t._s(t
 						.$t("car")[
@@ -1432,7 +1439,8 @@
 				}, [i("v-img", {
 					attrs: {
 						src: a(
-							"ddbe")
+							"ddbe"
+						)
 					}
 				})], 1)]), i("div", {
 					staticClass: "aircraft-img"
@@ -1476,46 +1484,46 @@
 					"span", {
 						staticClass: "car-content text-w"
 					}, [t._v(t._s(t.$t("station").c[2].text))])]), i(
-				"div", {
-					staticClass: "car concept-card concept-card-animation"
-				}, [i("span", {
-					staticClass: "car-title"
-				}, [t._v(t._s(t.$t("station").c[3].title))]), i(
-					"span", {
-						staticClass: "car-content"
-					}, [t._v(t._s(t.$t("station").c[3].text))])]), i(
-				"div", {
-					staticClass: "car concept-card concept-card-animation"
-				}, [i("span", {
-					staticClass: "car-title"
-				}, [t._v(t._s(t.$t("station").c[5].title))]), i(
-					"span", {
-						staticClass: "car-content"
-					}, [t._v(t._s(t.$t("station").c[5].text))])]), i(
-				"div", {
-					staticClass: "car concept-card concept-card-animation"
-				}, [i("span", {
-					staticClass: "car-title"
-				}, [t._v(t._s(t.$t("station").c[1].title))]), i(
-					"span", {
-						staticClass: "car-content"
-					}, [t._v(t._s(t.$t("station").c[1].text))])]), i(
-				"div", {
-					staticClass: "car concept-card concept-card-animation"
-				}, [i("span", {
-					staticClass: "car-title"
-				}, [t._v(t._s(t.$t("station").c[0].title))]), i(
-					"span", {
-						staticClass: "car-content"
-					}, [t._v(t._s(t.$t("station").c[0].text))])]), i(
-				"div", {
-					staticClass: "car concept-card concept-card-animation"
-				}, [i("span", {
-					staticClass: "car-title"
-				}, [t._v(t._s(t.$t("station").c[4].title))]), i(
-					"span", {
-						staticClass: "car-content"
-					}, [t._v(t._s(t.$t("station").c[4].text))])])])])], 1), i("div", {
+					"div", {
+						staticClass: "car concept-card concept-card-animation"
+					}, [i("span", {
+						staticClass: "car-title"
+					}, [t._v(t._s(t.$t("station").c[3].title))]), i(
+						"span", {
+							staticClass: "car-content"
+						}, [t._v(t._s(t.$t("station").c[3].text))])]), i(
+					"div", {
+						staticClass: "car concept-card concept-card-animation"
+					}, [i("span", {
+						staticClass: "car-title"
+					}, [t._v(t._s(t.$t("station").c[5].title))]), i(
+						"span", {
+							staticClass: "car-content"
+						}, [t._v(t._s(t.$t("station").c[5].text))])]), i(
+					"div", {
+						staticClass: "car concept-card concept-card-animation"
+					}, [i("span", {
+						staticClass: "car-title"
+					}, [t._v(t._s(t.$t("station").c[1].title))]), i(
+						"span", {
+							staticClass: "car-content"
+						}, [t._v(t._s(t.$t("station").c[1].text))])]), i(
+					"div", {
+						staticClass: "car concept-card concept-card-animation"
+					}, [i("span", {
+						staticClass: "car-title"
+					}, [t._v(t._s(t.$t("station").c[0].title))]), i(
+						"span", {
+							staticClass: "car-content"
+						}, [t._v(t._s(t.$t("station").c[0].text))])]), i(
+					"div", {
+						staticClass: "car concept-card concept-card-animation"
+					}, [i("span", {
+						staticClass: "car-title"
+					}, [t._v(t._s(t.$t("station").c[4].title))]), i(
+						"span", {
+							staticClass: "car-content"
+						}, [t._v(t._s(t.$t("station").c[4].text))])])])])], 1), i("div", {
 					staticClass: "spacepi_bg"
 				}, [i("v-container", {
 					staticClass: "nftCarousel_container"
@@ -1561,7 +1569,7 @@
 					}
 				}, [i("span", [t._v(t._s(t.$t(
 					"spacepiwep.trend_bnt_title"
-					)))]), i("span", [i("svg", {
+				)))]), i("span", [i("svg", {
 					attrs: {
 						width: "25px",
 						height: "43px",
@@ -1691,16 +1699,66 @@
 					})], 1)
 				]), i("div", {
 					staticClass: "one-text one-white"
-				}, [i("span", [t._v(t._s(t.$t("rt1_text6")))])
-				]), i("div", {
+				}, [i("span", [t._v(t._s(t.$t("rt1_text6")))])]), i(
+					"div", {
+						staticClass: "one-text one-white"
+					}, [i("span", [t._v(t._s(t.$t("rt1_text7")))])]
+				), i("div", {
 					staticClass: "one-text one-white"
-				}, [i("span", [t._v(t._s(t.$t("rt1_text7")))])
-				]), i("div", {
+				}, [i("span", [t._v(t._s(t.$t("rt1_text8")))])]), i(
+					"div", {
+						staticClass: "one-text one-yellow"
+					}, [i("span", [t._v(t._s(t.$t("rt1_text9")))]),
+						i("div", {
+							staticClass: "one-yes"
+						}, [i("v-img", {
+							attrs: {
+								src: a("723f")
+							}
+						})], 1)
+					]), i("div", {
 					staticClass: "one-text one-white"
-				}, [i("span", [t._v(t._s(t.$t("rt1_text8")))])
+				}, [i("span", [t._v(t._s(t.$t(
+					"rt1_text10")))])])])]), i("div", {
+					staticClass: "two-subject",
+					staticStyle: {
+						"z-index": "1"
+					}
+				}, [i("div", {
+					staticClass: "one-content wow spacepi-animation fade-left-in-right-animation"
+				}, [i("div", {
+					staticClass: "one-title"
+				}, [t._v(t._s(t.$t("Phase2")))]), i("div", {
+					staticClass: "one-text one-white"
+				}, [t._v(t._s(t.$t("rt2_text1")))]), i("div", {
+					staticClass: "one-text one-white"
+				}, [i("span", [t._v(t._s(t.$t("rt2_text2")))])]), i(
+					"div", {
+						staticClass: "one-text one-white"
+					}, [i("span", [t._v(t._s(t.$t("rt2_text3")))])]
+				), i("div", {
+					staticClass: "one-text one-yellow"
+				}, [i("span", [t._v(t._s(t.$t("rt2_text4")))]),
+					i("div", {
+						staticClass: "one-yes"
+					}, [i("v-img", {
+						attrs: {
+							src: a("723f")
+						}
+					})], 1)
 				]), i("div", {
 					staticClass: "one-text one-yellow"
-				}, [i("span", [t._v(t._s(t.$t("rt1_text9")))]),
+				}, [i("span", [t._v(t._s(t.$t("rt2_text5")))]),
+					i("div", {
+						staticClass: "one-yes"
+					}, [i("v-img", {
+						attrs: {
+							src: a("723f")
+						}
+					})], 1)
+				]), i("div", {
+					staticClass: "one-text one-yellow"
+				}, [i("span", [t._v(t._s(t.$t("rt2_text6")))]),
 					i("div", {
 						staticClass: "one-yes"
 					}, [i("v-img", {
@@ -1710,63 +1768,12 @@
 					})], 1)
 				]), i("div", {
 					staticClass: "one-text one-white"
-				}, [i("span", [t._v(t._s(t.$t("rt1_text10")))])
-				])])]), i("div", {
-					staticClass: "two-subject",
-					staticStyle: {
-						"z-index": "1"
-					}
-				}, [i("div", {
-					staticClass: "one-content wow spacepi-animation fade-left-in-right-animation"
-				}, [i("div", {
-						staticClass: "one-title"
-					}, [t._v(t._s(t.$t("Phase2")))]), i("div", {
+				}, [i("span", [t._v(t._s(t.$t("rt2_text7")))])]), i(
+					"div", {
 						staticClass: "one-text one-white"
-					}, [t._v(t._s(t.$t("rt2_text1")))]), i("div", {
-						staticClass: "one-text one-white"
-					}, [i("span", [t._v(t._s(t.$t("rt2_text2")))])]), i(
-						"div", {
-							staticClass: "one-text one-white"
-						}, [i("span", [t._v(t._s(t.$t("rt2_text3")))])]
-						), i("div", {
-						staticClass: "one-text one-yellow"
-					}, [i("span", [t._v(t._s(t.$t("rt2_text4")))]),
-						i("div", {
-							staticClass: "one-yes"
-						}, [i("v-img", {
-							attrs: {
-								src: a("723f")
-							}
-						})], 1)
-					]), i("div", {
-						staticClass: "one-text one-yellow"
-					}, [i("span", [t._v(t._s(t.$t("rt2_text5")))]),
-						i("div", {
-							staticClass: "one-yes"
-						}, [i("v-img", {
-							attrs: {
-								src: a("723f")
-							}
-						})], 1)
-					]), i("div", {
-						staticClass: "one-text one-yellow"
-					}, [i("span", [t._v(t._s(t.$t("rt2_text6")))]),
-						i("div", {
-							staticClass: "one-yes"
-						}, [i("v-img", {
-							attrs: {
-								src: a("723f")
-							}
-						})], 1)
-					]), i("div", {
-						staticClass: "one-text one-white"
-					}, [i("span", [t._v(t._s(t.$t("rt2_text7")))])]), i(
-						"div", {
-							staticClass: "one-text one-white"
-						}, [t._v(t._s(t.$t("rt2_text8")))]), i("div", {
-						staticClass: "one-text one-white"
-					}, [t._v(t._s(t.$t("rt2_text9")))])
-				]), i("div", {
+					}, [t._v(t._s(t.$t("rt2_text8")))]), i("div", {
+					staticClass: "one-text one-white"
+				}, [t._v(t._s(t.$t("rt2_text9")))])]), i("div", {
 					staticClass: "one-img"
 				}, [i("v-img", {
 					attrs: {
@@ -1790,8 +1797,8 @@
 					staticClass: "tokenomics-left-title"
 				}, [t._v(t._s(t.$t("Tokenomics")
 					.title))])]), i("div", {
-						staticClass: "tokenomics-left-Vice-title"
-					}, [t._v(t._s(t.$t("Tokenomics")
+					staticClass: "tokenomics-left-Vice-title"
+				}, [t._v(t._s(t.$t("Tokenomics")
 					.text))]), i("div", {
 					staticClass: "tokenomics-left-content"
 				}, [t._v(" " + t._s(t.$t("Tokenomics")
@@ -1891,25 +1898,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							0
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[0] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[0] ?
@@ -1917,7 +1927,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[0]
 							.text) +
 						" ")]) : t._e()
@@ -1938,25 +1949,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							1
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[1] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[1] ?
@@ -1964,7 +1978,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[1]
 							.text) +
 						" ")]) : t._e()
@@ -1985,25 +2000,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							2
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[2] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[2] ?
@@ -2011,7 +2029,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[2]
 							.text) +
 						" ")]) : t._e()
@@ -2032,25 +2051,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							3
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[3] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[3] ?
@@ -2058,7 +2080,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[3]
 							.text) +
 						" ")]) : t._e()
@@ -2081,25 +2104,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							4
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[4] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[4] ?
@@ -2107,7 +2133,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[4]
 							.text) +
 						" ")]) : t._e()
@@ -2128,25 +2155,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							5
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[5] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[5] ?
@@ -2154,7 +2184,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[5]
 							.text) +
 						" ")]) : t._e()
@@ -2175,25 +2206,28 @@
 						staticClass: "choice-title"
 					}, [t._v(t._s(t
 						.$t(
-							"answers")
+							"answers"
+						)
 						.array[
 							6
-							]
+						]
 						.title
-						))]), i("div", {
+					))]), i("div", {
 						staticClass: "choice-img"
 					}, [0 == t
 						.choice[6] ?
 						i("v-img", {
 							attrs: {
 								src: a(
-									"e87a")
+									"e87a"
+								)
 							}
 						}) : i(
 							"v-img", {
 								attrs: {
 									src: a(
-										"3a79")
+										"3a79"
+									)
 								}
 							})
 					], 1)]), 1 == t.choice[6] ?
@@ -2201,7 +2235,8 @@
 						staticClass: "choice-content"
 					}, [t._v(" " + t._s(t
 							.$t(
-								"answers")
+								"answers"
+							)
 							.array[6]
 							.text) +
 						" ")]) : t._e()
@@ -2225,6 +2260,8 @@
 				}, [t._v(" " + t._s(t.$t("introduce")) + " ")]), i("div", {
 					staticClass: "spacepi-button "
 				}, t._l(t.spacepiBuntton, (function(e, a) {
+					// console.log(e)
+					// console.log(a)
 					return i("v-menu", {
 						key: a,
 						attrs: {
@@ -2243,22 +2280,23 @@
 												on: {
 													click: function(
 														a
-														) {
+													) {
 														1 != e
 															.staus &&
 															t
 															.spacepiTo(
 																e
 																.link
-																)
+															)
 													}
 												}
 											}, "v-btn",
 											r, !1), s), [t
 											._v(" " + t._s(
 												e[t
-													.locale]
-												) + " ")
+													.locale
+												]
+											) + " ")
 										]) : t._e(), a != t
 									.spacepiBuntton.length -
 									1 && 0 != a ? i("v-btn",
@@ -2267,22 +2305,23 @@
 												on: {
 													click: function(
 														a
-														) {
+													) {
 														1 != e
 															.staus &&
 															t
 															.spacepiTo(
 																e
 																.link
-																)
+															)
 													}
 												}
 											}, "v-btn",
 											r, !1), s), [t
 											._v(" " + t._s(
 												e[t
-													.locale]
-												) + " ")
+													.locale
+												]
+											) + " ")
 										]) : t._e(), a == t
 									.spacepiBuntton.length -
 									1 ? i("v-btn", t._g(t
@@ -2291,21 +2330,21 @@
 													on: {
 														click: function(
 															a
-															) {
+														) {
 															1 != e
 																.staus &&
 																t
 																.spacepiTo(
 																	e
 																	.link
-																	)
+																)
 														}
 													}
 												}, "v-btn",
 												r, !1), s),
 										[t._v(" " + t._s(e[t
 												.locale
-												]) +
+											]) +
 											" ")]) : t._e()
 								]
 							}
@@ -2325,7 +2364,7 @@
 											.spacepiTo(
 												n
 												.link
-												)
+											)
 									}
 								}
 							}, [i("v-list-item-title", {
@@ -2334,7 +2373,7 @@
 								}
 							}, [t._v(t._s(n[t
 								.locale
-								]))])], 1) : t._e(), n
+							]))])], 1) : t._e(), n
 							.b_id == e.id && 0 != a &&
 							a != t.spacepiBuntton
 							.length - 1 ? i(
@@ -2346,7 +2385,7 @@
 												.spacepiTo(
 													n
 													.link
-													)
+												)
 										}
 									}
 								}, [i("v-list-item-title", {
@@ -2355,7 +2394,7 @@
 									}
 								}, [t._v(t._s(n[t
 									.locale
-									]))])], 1) : t._e(),
+								]))])], 1) : t._e(),
 							n.b_id == e.id && a == t
 							.spacepiBuntton.length - 1 ?
 							i("v-list-item", {
@@ -2367,7 +2406,7 @@
 											.spacepiTo(
 												n
 												.link
-												)
+											)
 									}
 								}
 							}, [i("v-list-item-title", {
@@ -2376,7 +2415,7 @@
 								}
 							}, [t._v(t._s(n[t
 								.locale
-								]))])], 1) : t._e()
+							]))])], 1) : t._e()
 						], 1)
 					})), 0) : t._e()], 1)
 				})), 1), i("span", {
@@ -2404,7 +2443,7 @@
 					attrs: {
 						d: "M -1088.509887695312 622.5731201171875 L -1128.016357421875 541.5733642578125 L -1988.999877929688 541.5733642578125 L -1989 622.5731201171875 L -1088.509887695312 622.5731201171875 M -1086.90966796875 623.5731201171875 L -1086.910400390625 623.5715942382812 L -1086.90966796875 623.5731201171875 L -1990 623.5731201171875 L -1989.999877929688 540.5733642578125 L -1127.391479492188 540.5733642578125 L -1086.90966796875 623.5731201171875 Z",
 						stroke: "none",
-						fill: "#fdd333"
+						fill: "#FFB44E"
 					}
 				})])]), i("span", [t._v(t._s(t.address))])]), i("div", {
 					directives: [{
@@ -2433,7 +2472,7 @@
 					attrs: {
 						d: "M-1678.317,115h-271.2L-1990,32h296.9l14.782,16.417V115h0Z",
 						transform: "translate(1990 -32)",
-						fill: "#fdd333"
+						fill: "#FFB44E"
 					}
 				})]), i("div", {
 					staticClass: "copy-img",
@@ -2505,19 +2544,58 @@
 					},
 					getspacepiBuntton: function() {
 						var t = this;
+						var testArray = []
 						p.a.post(this.domainUrl + "spacepiBuntton", {}).then((function(e) {
-							t.spacepiBuntton = e.data.data
+							console.log(e.data.data, '111')
+							testArray.push(
+							{
+								ar: "يشتري Pi Network",
+								create_date: 1648718156,
+								en_US: "Buy Pi Network",
+								id: 1,
+								in: "Beli Pi Network",
+								ja_JP: "Pi Networkを購入する",
+								ko_KR: "Pi Network 구매",
+								link: "",
+								sort: 4,
+								staus: 1,
+								th: "ซื้อ Pi Network",
+								tr_TR: "Pi Network satın al",
+								zh_CN: "购买 Pi Network",
+								zh_TW: "购买 Pi Network"
+							})
+							testArray.push({
+									ar: "Pi Network اتجاه",
+									create_date: 1648718156,
+									en_US: "Pi Network Trend",
+									id: 3,
+									in: "Pi Network Trend",
+									ja_JP: "Pi Network 傾向",
+									ko_KR: "Pi Network 경향",
+									link: "",
+									sort: 4,
+									staus: 1,
+									th: "Pi Network แนวโน้ม",
+									tr_TR: "Pi Network Akım",
+									zh_CN: "Pi Network 趋势",
+									zh_TW: "Pi Network 趨勢"
+								})
+							// testArray[1].zh_CN = 'Pi Network 趋势';
+							t.spacepiBuntton = testArray
 						})).catch((function(t) {}))
 					},
 					getspacepiBunttonList: function() {
 						var t = this;
+						var testArray1 = []
 						p.a.post(this.domainUrl + "spacepiBunttonList", {}).then((function(e) {
+							console.log(e.data.data, '2222')
 							t.spacepiBunttonList = e.data.data;
 							for (var a = [], i = [], n = 0; n < t.spacepiBunttonList
 								.length; n++) a[n] =
 								"width: 100%;height:3.75rem;border-radius: 0.25rem;margin: 0.5rem;background:rgb(253, 211, 51);color:rgb(51, 51, 51);line-height:0;font-size: 1rem;font-family: DIN;font-weight: bold;border: 0;",
 								i[n] = !1;
 							t.tabarray = a, t.array1 = i
+							console.log(a)
 						})).catch((function(t) {}))
 					},
 					onCopy: function(t) {
@@ -2821,7 +2899,7 @@
 										s,
 										!
 										1
-										),
+									),
 									n),
 								[i("div", {
 											staticClass: "locale-img"
@@ -2829,18 +2907,19 @@
 										[i("v-img", {
 											attrs: {
 												src: a(
-													"0ad3")
+													"0ad3"
+												)
 											}
 										})],
 										1
-										),
+									),
 									t
 									._l(t
 										.localeData,
 										(function(
 											e,
 											a
-											) {
+										) {
 											return i(
 												"div", {
 													key: a,
@@ -2856,16 +2935,16 @@
 															t
 															._s(e
 																.name
-																) +
+															) +
 															" "
-															)]
-														) :
+														)]
+													) :
 													t
 													._e()
 												]
-												)
+											)
 										})
-										)
+									)
 								], 2)]
 						}
 					}])
@@ -2880,13 +2959,14 @@
 									.localeClick(
 										e
 										.key
-										)
+									)
 							}
 						}
 					}, [i("v-list-item-title",
 						[t._v(t._s(e
-							.name))]
-						)], 1)
+							.name
+						))]
+					)], 1)
 				})), 1)], 1)], 1)])]), i("div", {
 					staticClass: "join-subject"
 				}, [i("span", {
@@ -3041,7 +3121,7 @@
 									.spacepiTo(
 										e
 										.url
-										)
+									)
 							}
 						}
 					})], 1)])
@@ -3070,7 +3150,7 @@
 									.spacepiTo(
 										e
 										.url
-										)
+									)
 							}
 						}
 					})], 1)])
@@ -3095,14 +3175,14 @@
 												on: {
 													click: function(
 														a
-														) {
+													) {
 														1 != e
 															.staus &&
 															t
 															.spacepiTo(
 																e
 																.link
-																)
+															)
 													}
 												}
 											}, "v-btn",
@@ -3116,7 +3196,7 @@
 														t
 														._s(e
 															.zh_CN
-															) +
+														) +
 														" ")
 												]) : a(
 												"span", [t
@@ -3124,7 +3204,7 @@
 														t
 														._s(e
 															.en_US
-															) +
+														) +
 														" ")
 												])
 										]) : t._e(), i != t
@@ -3134,14 +3214,14 @@
 											on: {
 												click: function(
 													a
-													) {
+												) {
 													1 != e
 														.staus &&
 														t
 														.spacepiTo(
 															e
 															.link
-															)
+														)
 												}
 											}
 										}, "v-btn",
@@ -3155,7 +3235,7 @@
 													t
 													._s(e
 														.zh_CN
-														) +
+													) +
 													" ")
 											]) : a(
 											"span", [t
@@ -3163,7 +3243,7 @@
 													t
 													._s(e
 														.en_US
-														) +
+													) +
 													" ")
 											])
 									]) : t._e(), i == t
@@ -3174,14 +3254,14 @@
 												on: {
 													click: function(
 														a
-														) {
+													) {
 														1 != e
 															.staus &&
 															t
 															.spacepiTo(
 																e
 																.link
-																)
+															)
 													}
 												}
 											}, "v-btn",
@@ -3195,7 +3275,7 @@
 														t
 														._s(e
 															.zh_CN
-															) +
+														) +
 														" ")
 												]) : a(
 												"span", [t
@@ -3203,7 +3283,7 @@
 														t
 														._s(e
 															.en_US
-															) +
+														) +
 														" ")
 												])
 										]) : t._e()
@@ -3224,7 +3304,7 @@
 												.spacepiTo(
 													n
 													.link
-													)
+												)
 										}
 									}
 								}, [a("v-list-item-title", {
@@ -3240,18 +3320,18 @@
 											t
 											._s(e
 												.zh_CN
-												) +
+											) +
 											" "
-											)]
-										) : a(
+										)]
+									) : a(
 										"span",
 										[t._v(" " +
 											t
 											._s(e
 												.en_US
-												) +
+											) +
 											" "
-											)])
+										)])
 								])], 1) : t._e(), n.b_id ==
 								e.id && 0 != i && i != t
 								.getNftTopBunttonData
@@ -3264,7 +3344,7 @@
 													.spacepiTo(
 														n
 														.link
-														)
+													)
 											}
 										}
 									}, [a("v-list-item-title", {
@@ -3280,18 +3360,18 @@
 												t
 												._s(e
 													.zh_CN
-													) +
+												) +
 												" "
-												)]
-											) : a(
+											)]
+										) : a(
 											"span",
 											[t._v(" " +
 												t
 												._s(e
 													.en_US
-													) +
+												) +
 												" "
-												)])
+											)])
 									])], 1) : t._e(), n
 								.b_id == e.id && i == t
 								.getNftTopBunttonData
@@ -3305,7 +3385,7 @@
 													.spacepiTo(
 														n
 														.link
-														)
+													)
 											}
 										}
 									}, [a("v-list-item-title", {
@@ -3321,18 +3401,18 @@
 												t
 												._s(e
 													.zh_CN
-													) +
+												) +
 												" "
-												)]
-											) : a(
+											)]
+										) : a(
 											"span",
 											[t._v(" " +
 												t
 												._s(e
 													.en_US
-													) +
+												) +
 												" "
-												)])
+											)])
 									])], 1) : t._e()
 							], 1)
 						})), 0) : t._e()], 1)
@@ -3577,11 +3657,11 @@
 								on: {
 									click: function(
 										e
-										) {
+									) {
 										return t
 											.to(a
 												.link
-												)
+											)
 									}
 								}
 							}) : t._e()]
@@ -3660,7 +3740,7 @@
 					staticClass: "wbnb-line"
 				}), i("span", {
 					staticClass: "wbnb-title"
-				}, [t._v("SPACEPI"), i("span", {
+				}, [t._v("Pi Network"), i("span", {
 					staticClass: "wbnb-title-line"
 				}, [t._v("/")]), t._v("WBNB")])]), i("div", {
 					staticClass: "lock-subject wow spacepi-animation fade-in-up-animation"
@@ -3683,16 +3763,16 @@
 				}, [i("span", {
 					staticClass: "lock-public-title"
 				}, [t._v("Total Supply of LP")]), i(
-				"span", {
-					staticClass: "lock-public-text"
-				}, [t._v("23780.324316926395")])]), i("div", {
+					"span", {
+						staticClass: "lock-public-text"
+					}, [t._v("23780.324316926395")])]), i("div", {
 					staticClass: "lock-public-s"
 				}, [i("span", {
 					staticClass: "lock-public-title"
 				}, [t._v("LP in Locker (96%)")]), i(
-				"span", {
-					staticClass: "lock-public-text"
-				}, [t._v("22836.8")])]), i("div", {
+					"span", {
+						staticClass: "lock-public-text"
+					}, [t._v("22836.8")])]), i("div", {
 					staticClass: "lock-public-s"
 				}, [i("span", {
 					staticClass: "lock-public-title"
@@ -3723,7 +3803,7 @@
 						click: function(e) {
 							return t.spacepiTo(
 								"https://dxsale.app/app/v3_3/dxlockview?id=0&add=0x7f1b11a798273dA438b4b132dF1383d8387e73b4&type=lplock&chain=BSC"
-								)
+							)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i("div", [t._v(" → ")])])]), i("v-container", {
@@ -3731,8 +3811,8 @@
 				}, [i("div", {
 					staticClass: "info-subject wow spacepi-animation fade-right-in-left-animation"
 				}, [i("span", {
-						staticClass: "info-text"
-					}, [t._v(
+					staticClass: "info-text"
+				}, [t._v(
 					"for PiNetwork & Elon Musk & PI Network Team")]), i(
 					"div", {
 						staticClass: "info-title-subject"
@@ -3758,26 +3838,28 @@
 					}, [i("v-img", {
 						attrs: {
 							src: a(
-								"151f")
+								"151f"
+							)
 						}
 					})], 1), i("div", {
 						staticClass: "contract-head3"
 					}, [i("v-img", {
 						attrs: {
 							src: a(
-								"f9ed")
+								"f9ed"
+							)
 						}
 					})], 1), i("span", {
 						staticClass: "contract-head4"
 					}, [t._v(t._s(e
 						.address
-						))])]), i("div", {
+					))])]), i("div", {
 						staticClass: "contract-head-r"
 					}, [i("span", {
 						staticClass: "contract-head5"
 					}, [t._v(t._s(e
 						.percentage
-						))])])]), i("div", {
+					))])])]), i("div", {
 						staticClass: "contract-content"
 					}, [i("span", {
 						staticClass: "contract1"
@@ -3787,47 +3869,51 @@
 						}, [t._v("No1: " + t._s(e
 								.spacePi) +
 							" SpacePi")]), i(
-					"div", {
-						staticClass: "contract3"
-					}, [i("span", {
-						staticClass: "contract-y"
-					}, [t._v("Start"),
-						i("span", {
-							staticClass: "contract-span-w"
-						}, [t._v(
-							"/")]), t
-						._v("Update")
-					]), i("div", {
-						staticClass: "contract-time"
-					}, [i("div", [t._v(
-							"Time: "
+						"div", {
+							staticClass: "contract3"
+						}, [i("span", {
+							staticClass: "contract-y"
+						}, [t._v("Start"),
+							i("span", {
+								staticClass: "contract-span-w"
+							}, [t._v(
+								"/"
+							)]), t
+							._v("Update")
+						]), i("div", {
+							staticClass: "contract-time"
+						}, [i("div", [t._v(
+								"Time: "
 							),
-						i("span", {
-							staticClass: "contract-span"
-						}, [t
-							._v(t
-								._s(e
-									.startTime
+							i("span", {
+								staticClass: "contract-span"
+							}, [t
+								._v(t
+									._s(e
+										.startTime
 									)
 								)
-						]), t
-						._v(
-							" (UTC-8)")
-					]), i("div", [t
-						._v(
-							" End Time: "),
-						i("span", {
-							staticClass: "contract-span"
-						}, [t
-							._v(t
-								._s(e
-									.endTime
+							]), t
+							._v(
+								" (UTC-8)"
+							)
+						]), i("div", [t
+							._v(
+								" End Time: "
+							),
+							i("span", {
+								staticClass: "contract-span"
+							}, [t
+								._v(t
+									._s(e
+										.endTime
 									)
 								)
-						]), t
-						._v(
-							" (UTC-8)")
-					])])]), i("div", {
+							]), t
+							._v(
+								" (UTC-8)"
+							)
+						])])]), i("div", {
 						staticClass: "contract4"
 					}, [i("div", {
 						staticClass: "contract-bnt",
@@ -3838,7 +3924,7 @@
 									.spacepiTo(
 										e
 										.url
-										)
+									)
 							}
 						}
 					}, [i("div", {
@@ -3847,14 +3933,16 @@
 						staticClass: "icon",
 						attrs: {
 							src: a(
-								"5724")
+								"5724"
+							)
 						}
 					}), i(
 						"v-img", {
 							staticClass: "icon-h",
 							attrs: {
 								src: a(
-									"3757")
+									"3757"
+								)
 							}
 						})], 1)])])])])
 				})), 0)]), i("foot")], 1)])
@@ -3960,7 +4048,7 @@
 					staticClass: "task-vice wow spacepi-animation fade-right-in-left-animation"
 				}, [t._v(
 					" OK! Here are some PI Network Army missions! Let's take a few seconds to do the simple task! "
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-card-subject"
 				}, [i("div", {
 					staticClass: "task-card task-card-subject-b1 wow spacepi-animation fade-left-in-right-animation"
@@ -3968,7 +4056,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					' 1.Click on CMC and tap the Good button! Also search for "SpacePi" on CMC as it keeps us hot! '
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b1"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -3986,7 +4074,7 @@
 					staticClass: "task-url task-card-subject-b1"
 				}, [i("span", [t._v(
 					"https://coinmarketcap.com/currencies/spacepi/"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b1"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in ",
@@ -3995,7 +4083,7 @@
 							return t
 								.spacepiTo(
 									"https://coinmarketcap.com/currencies/spacepi/"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4005,7 +4093,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					" 2. Click on Coingecko and tap the Good button! "
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b2"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -4023,7 +4111,7 @@
 					staticClass: "task-url task-card-subject-b2"
 				}, [i("span", [t._v(
 					"https://www.coingecko.com/en/coins/spacepi//"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b2"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in ",
@@ -4032,7 +4120,7 @@
 							return t
 								.spacepiTo(
 									"https://www.coingecko.com/en/coins/spacepi/"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4042,7 +4130,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					" 3. Click on Crypto and tap the Good button! "
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b3"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -4060,7 +4148,7 @@
 					staticClass: "task-url task-card-subject-b3"
 				}, [i("span", [t._v(
 					"https://crypto.com/price/spacepi"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b3"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in",
@@ -4069,7 +4157,7 @@
 							return t
 								.spacepiTo(
 									"https://crypto.com/price/spacepi"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4079,7 +4167,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					" 4. Click on Digitalcoinprice and tap the Good button! "
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b4"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -4097,7 +4185,7 @@
 					staticClass: "task-url task-card-subject-b4"
 				}, [i("span", [t._v(
 					"https://digitalcoinprice.com/coins/spacepi/"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b4"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in",
@@ -4106,7 +4194,7 @@
 							return t
 								.spacepiTo(
 									"https://digitalcoinprice.com/coins/spacepi/"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4116,7 +4204,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					" 5. Click on Dextools and tap on GREEN STAR ️ "
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b5"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -4134,7 +4222,7 @@
 					staticClass: "task-url task-card-subject-b5"
 				}, [i("span", [t._v(
 					"https://www.dextools.io/app/bsc/pair-explorer/0x7f1b11a798273da438b4b132df1383d8387e73b4"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b5"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in",
@@ -4143,7 +4231,7 @@
 							return t
 								.spacepiTo(
 									"https://www.dextools.io/app/bsc/pair-explorer/0x7f1b11a798273da438b4b132df1383d8387e73b4"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4153,7 +4241,7 @@
 					staticClass: "task-card-title"
 				}, [t._v(
 					" 6. Click on Certik and tap on Secure button! ️ "
-					)]), i("div", {
+				)]), i("div", {
 					staticClass: "task-line task-card-subject-b6"
 				}), i("div", {
 					staticClass: "task-card-subject"
@@ -4171,7 +4259,7 @@
 					staticClass: "task-url task-card-subject-b6"
 				}, [i("span", [t._v(
 					"https://www.certik.com/projects/spacepi"
-					)])]), i("div", {
+				)])]), i("div", {
 					staticClass: "task-bnt task-bnt-b6"
 				}, [i("div", {
 					staticClass: "task-bnt b03_skewed_slide_in",
@@ -4180,7 +4268,7 @@
 							return t
 								.spacepiTo(
 									"https://www.certik.com/projects/spacepi"
-									)
+								)
 						}
 					}
 				}, [i("div", [t._v(" → ")]), i(
@@ -4264,7 +4352,7 @@
 										.spacepiTo(
 											i
 											.url
-											)
+										)
 								}
 							}
 						}, [a("v-img", {
@@ -4615,7 +4703,7 @@
 												"updateMyspacepi", c),
 											p = c - r, i(
 												"updateInviteRewards", p
-												);
+											);
 									case 13:
 									case "end":
 										return a.stop()
@@ -5108,7 +5196,7 @@
 	"7b76": function(t) {
 		t.exports = JSON.parse(
 			'{"v":"5.6.9","fr":30,"ip":0,"op":180,"w":1920,"h":1720,"nm":"合成 1","ddd":0,"assets":[{"id":"image_0","w":1435,"h":1893,"u":"images/","p":"img_0.png","e":0},{"id":"image_1","w":1209,"h":834,"u":"images/","p":"img_1.png","e":0},{"id":"image_2","w":1984,"h":1674,"u":"images/","p":"img_2.png","e":0},{"id":"image_3","w":926,"h":514,"u":"images/","p":"img_3.png","e":0},{"id":"image_4","w":1608,"h":1080,"u":"images/","p":"img_4.png","e":0},{"id":"image_5","w":888,"h":943,"u":"images/","p":"img_5.png","e":0},{"id":"image_6","w":2273,"h":1864,"u":"images/","p":"img_6.png","e":0},{"id":"image_7","w":3840,"h":2114,"u":"images/","p":"img_7.png","e":0},{"id":"image_8","w":3000,"h":2128,"u":"images/","p":"img_8.png","e":0},{"id":"image_9","w":3840,"h":3440,"u":"images/","p":"img_9.jpg","e":0}],"layers":[{"ddd":0,"ind":1,"ty":2,"nm":"space-光.png","cl":"png","refId":"image_0","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":110,"s":[0]},{"t":127,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[1148,529.5,0],"ix":2},"a":{"a":0,"k":[717.5,946.5,0],"ix":1},"s":{"a":0,"k":[48.482,48.482,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":2,"nm":"space.png","cl":"png","refId":"image_1","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":20,"s":[50]},{"t":107,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":20,"s":[593,484,0],"to":[97.5,-24,0],"ti":[-91.5,-24,0]},{"t":107,"s":[998,466,0]}],"ix":2},"a":{"a":0,"k":[604.5,417,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":20,"s":[0,0,100]},{"t":107,"s":[49.876,49.876,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":3,"ty":2,"nm":"飞石头.png","cl":"png","refId":"image_2","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":69,"s":[0]},{"t":103,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":69,"s":[803,611,0],"to":[33.5,3.5,0],"ti":[-33.5,-3.5,0]},{"t":103,"s":[1004,632,0]}],"ix":2},"a":{"a":0,"k":[992,837,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":69,"s":[0,0,100]},{"t":103,"s":[50.119,50.119,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":4,"ty":2,"nm":"右飞机.png","cl":"png","refId":"image_3","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":47,"s":[0]},{"t":107,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":47,"s":[1997,698,0],"to":[-61,0.5,0],"ti":[61,-0.5,0]},{"t":107,"s":[1631,701,0]}],"ix":2},"a":{"a":0,"k":[463,257,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":47,"s":[15.725,15.725,100]},{"t":107,"s":[51.362,51.362,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":5,"ty":2,"nm":"右房子.png","cl":"png","refId":"image_4","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":98,"s":[0]},{"t":115,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[1513,640.5,0],"ix":2},"a":{"a":0,"k":[804,540,0],"ix":1},"s":{"a":0,"k":[50.871,50.871,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":6,"ty":2,"nm":"左飞机.png","cl":"png","refId":"image_5","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":48,"s":[0]},{"t":107,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":48,"s":[-523,974,0],"to":[126.5,-65,0],"ti":[-126.5,65,0]},{"t":107,"s":[236,584,0]}],"ix":2},"a":{"a":0,"k":[444,471.5,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":48,"s":[115.991,115.991,100]},{"t":107,"s":[54.505,54.505,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":7,"ty":2,"nm":"左星球.png","cl":"png","refId":"image_6","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":0,"s":[0]},{"t":108,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":0,"s":[-675.5,-589,0],"to":[206,175,0],"ti":[-206,-175,0]},{"t":108,"s":[560.5,461,0]}],"ix":2},"a":{"a":0,"k":[1136.5,932,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":0,"s":[129.037,129.037,100]},{"t":108,"s":[49.318,49.318,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":8,"ty":2,"nm":"下地球.png","cl":"png","refId":"image_7","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[960,1193,0],"ix":2},"a":{"a":0,"k":[1920,1057,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":0,"s":[107.721,107.721,100]},{"t":108,"s":[50,50,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":9,"ty":2,"nm":"点缀飞机.png","cl":"png","refId":"image_8","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":103,"s":[0]},{"t":120,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[1054,534,0],"ix":2},"a":{"a":0,"k":[1500,1064,0],"ix":1},"s":{"a":0,"k":[52.533,52.533,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":10,"ty":2,"nm":"背景.png","cl":"png","refId":"image_9","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[960,860,0],"ix":2},"a":{"a":0,"k":[1920,1720,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":0,"s":[75.208,75.208,100]},{"t":108,"s":[50,50,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0}],"markers":[]}'
-			)
+		)
 	},
 	8: function(t, e) {},
 	8270: function(t, e, a) {
@@ -5142,7 +5230,7 @@
 	a1a7: function(t) {
 		t.exports = JSON.parse(
 			'{"v":"5.6.9","fr":30,"ip":0,"op":159,"w":1125,"h":2200,"nm":"合成 1","ddd":0,"assets":[{"id":"image_0","w":1435,"h":1893,"u":"imagesm/","p":"img_0.png","e":0},{"id":"image_1","w":926,"h":514,"u":"imagesm/","p":"img_1.png","e":0},{"id":"image_2","w":1984,"h":1674,"u":"imagesm/","p":"img_2.png","e":0},{"id":"image_3","w":888,"h":943,"u":"imagesm/","p":"img_3.png","e":0},{"id":"image_4","w":1209,"h":834,"u":"imagesm/","p":"img_4.png","e":0},{"id":"image_5","w":3840,"h":2114,"u":"imagesm/","p":"img_5.png","e":0},{"id":"image_6","w":3000,"h":2128,"u":"imagesm/","p":"img_6.png","e":0},{"id":"image_7","w":2273,"h":1864,"u":"imagesm/","p":"img_7.png","e":0},{"id":"image_8","w":1608,"h":1080,"u":"imagesm/","p":"img_8.png","e":0},{"id":"image_9","w":3840,"h":3440,"u":"imagesm/","p":"img_9.jpg","e":0}],"layers":[{"ddd":0,"ind":1,"ty":2,"nm":"space-光.png","cl":"png","refId":"image_0","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":120,"s":[0]},{"t":129,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[732.5,574.171,0],"ix":2},"a":{"a":0,"k":[717.5,946.5,0],"ix":1},"s":{"a":0,"k":[51.598,51.598,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":2,"nm":"右飞机.png","cl":"png","refId":"image_1","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":30,"s":[1333,543.939,0],"to":[-103.333,90.333,0],"ti":[175.333,-1.333,0]},{"t":120,"s":[941,655.939,0]}],"ix":2},"a":{"a":0,"k":[463,257,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":30,"s":[1,1,100]},{"t":120,"s":[43.304,43.304,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":3,"ty":2,"nm":"飞石头.png","cl":"png","refId":"image_2","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":88,"s":[0]},{"t":130,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[618.5,526.657,0],"ix":2},"a":{"a":0,"k":[992,837,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":88,"s":[15.635,15.635,100]},{"t":129,"s":[38.635,38.635,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":4,"ty":2,"nm":"左飞机.png","cl":"png","refId":"image_3","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":51,"s":[-295.5,1294.296,0],"to":[81.667,-53.667,0],"ti":[-81.667,53.667,0]},{"t":120,"s":[194.5,972.296,0]}],"ix":2},"a":{"a":0,"k":[444,471.5,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":51,"s":[80.39,80.39,100]},{"t":120,"s":[45.255,45.255,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":5,"ty":2,"nm":"space.png","cl":"png","refId":"image_4","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":28,"s":[302,715.304,0],"to":[24.417,-78.667,0],"ti":[-86.417,22.667,0]},{"t":120,"s":[562.5,489.304,0]}],"ix":2},"a":{"a":0,"k":[604.5,417,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":28,"s":[1,1,100]},{"t":120,"s":[47.395,47.395,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":6,"ty":2,"nm":"下地球.png","cl":"png","refId":"image_5","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[562.5,1206,0],"ix":2},"a":{"a":0,"k":[1920,1057,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":0,"s":[32.604,32.604,100]},{"t":120,"s":[64.271,64.271,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":7,"ty":2,"nm":"点缀飞机.png","cl":"png","refId":"image_6","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":120,"s":[0]},{"t":130,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[-661.5,468.657,0],"ix":2},"a":{"a":0,"k":[1500,1064,0],"ix":1},"s":{"a":0,"k":[100,100,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":8,"ty":2,"nm":"左星球.png","cl":"png","refId":"image_7","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":1,"k":[{"i":{"x":0.667,"y":1},"o":{"x":0.333,"y":0},"t":0,"s":[-69.5,-86,0],"to":[61.333,62.667,0],"ti":[-61.333,-62.667,0]},{"t":120,"s":[298.5,290,0]}],"ix":2},"a":{"a":0,"k":[1136.5,932,0],"ix":1},"s":{"a":0,"k":[31.58,31.58,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":9,"ty":2,"nm":"右房子.png","cl":"png","refId":"image_8","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.667],"y":[1]},"o":{"x":[0.333],"y":[0]},"t":120,"s":[0]},{"t":130,"s":[100]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[838.5,604.329,0],"ix":2},"a":{"a":0,"k":[804,540,0],"ix":1},"s":{"a":0,"k":[44.03,44.03,100],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":10,"ty":2,"nm":"背景.png","cl":"png","refId":"image_9","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[368.5,1048.296,0],"ix":2},"a":{"a":0,"k":[1920,1720,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.667,0.667,0.667],"y":[1,1,1]},"o":{"x":[0.333,0.333,0.333],"y":[0,0,0]},"t":0,"s":[79.116,79.116,100]},{"t":120,"s":[61.199,61.199,100]}],"ix":6}},"ao":0,"ip":0,"op":900,"st":0,"bm":0}],"markers":[]}'
-			)
+		)
 	},
 	a254: function(t, e) {
 		t.exports =
@@ -5355,7 +5443,7 @@
 	b918: function(t) {
 		t.exports = JSON.parse(
 			'{"v":"5.6.9","fr":30,"ip":0,"op":40,"w":34,"h":34,"nm":"合成 1","ddd":0,"assets":[],"layers":[{"ddd":0,"ind":1,"ty":4,"nm":"形状图层 1","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[17.053,16.322,0],"ix":2},"a":{"a":0,"k":[0.5,-0.5,0],"ix":1},"s":{"a":0,"k":[74.58,74.58,100],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[10.25,10.25],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"椭圆路径 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"fl","c":{"a":0,"k":[0.611764705882,0.317647058824,1,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"填充 1","mn":"ADBE Vector Graphic - Fill","hd":false},{"ty":"tr","p":{"a":0,"k":[0.5,-0.5],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"椭圆 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":4,"nm":"形状图层 2","sr":1,"ks":{"o":{"a":1,"k":[{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[0]},{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":27,"s":[30]},{"t":40,"s":[0]}],"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[17.053,16.322,0],"ix":2},"a":{"a":0,"k":[0.5,-0.5,0],"ix":1},"s":{"a":1,"k":[{"i":{"x":[0.833,0.833,0.833],"y":[0.833,0.833,0.833]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"t":0,"s":[77.019,77.019,100]},{"t":40,"s":[291.653,291.653,100]}],"ix":6}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[10.25,10.25],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"椭圆路径 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"fl","c":{"a":0,"k":[0.611764705882,0.317647058824,1,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"填充 1","mn":"ADBE Vector Graphic - Fill","hd":false},{"ty":"tr","p":{"a":0,"k":[0.5,-0.5],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"变换"}],"nm":"椭圆 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":900,"st":0,"bm":0}],"markers":[]}'
-			)
+		)
 	},
 	bca3: function(t, e, a) {
 		"use strict";
@@ -5364,7 +5452,7 @@
 	bd77: function(t) {
 		t.exports = JSON.parse(
 			'{"contractName":"StakePool","abi":[{"inputs":[{"internalType":"uint256","name":"_duration","type":"uint256"},{"internalType":"uint256","name":"_totalReward","type":"uint256"},{"internalType":"uint256","name":"_perReward","type":"uint256"},{"internalType":"address","name":"_token","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"StakeAdd","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"StakeSub","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Withdraw","type":"event"},{"inputs":[],"name":"duration","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"invite","outputs":[{"internalType":"contract Invite","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"perBlockReward","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"startBlock","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"token","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalFight","outputs":[{"internalType":"int256","name":"","type":"int256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalReward","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalStake","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalStatistics","outputs":[{"internalType":"int256","name":"","type":"int256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_invite","type":"address"}],"name":"setInvite","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"blockNum","type":"uint256"}],"name":"setStartBlock","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"blocks","type":"uint256"}],"name":"setDuration","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"perReward","type":"uint256"}],"name":"setPerBlockReward","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"stakeAdd","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"stakeSub","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"withdraw","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"player","type":"address"}],"name":"getWithdrawableReward","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"player","type":"address"}],"name":"getStakeInfo","outputs":[{"internalType":"uint256","name":"","type":"uint256"},{"internalType":"int256","name":"","type":"int256"},{"internalType":"uint256","name":"","type":"uint256"},{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true}],"address":"0xaF79eC2df78c96d77570bbc1cDcE243167009855"}'
-			)
+		)
 	},
 	c4a9: function(t, e, a) {
 		t.exports = a.p + "img/spacepiwep-img.04ff0083.png"
@@ -5372,7 +5460,7 @@
 	c972: function(t) {
 		t.exports = JSON.parse(
 			'{"contractName":"Invite","abi":[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"inviter","type":"address"},{"indexed":true,"internalType":"address","name":"invitee","type":"address"}],"name":"BondInvite","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"inviter","type":"address"}],"name":"bondInvite","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"user","type":"address"}],"name":"isInvited","outputs":[{"internalType":"address","name":"","type":"address"},{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"player","type":"address"}],"name":"getInviteInfo","outputs":[{"components":[{"internalType":"address[]","name":"invites","type":"address[]"},{"internalType":"address","name":"inviter","type":"address"},{"internalType":"bool","name":"isInvited","type":"bool"}],"internalType":"struct Invite.InviteInfo","name":"","type":"tuple"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"a1","type":"address"},{"internalType":"address","name":"a2","type":"address"}],"name":"checkIsInvite","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"inviter","type":"address"}],"name":"getInvitee","outputs":[{"internalType":"address[]","name":"","type":"address[]"}],"stateMutability":"view","type":"function","constant":true}],"address":"0x23366f3C6803F2198A541BDb04107c4ae72e9e1B"}'
-			)
+		)
 	},
 	c9d5: function(t, e, a) {
 		t.exports = a.p + "img/one-img.6691c925.png"
@@ -5623,7 +5711,7 @@
 			tetxbu: "ホワイトペーパーを読む",
 			tetxbu_url: "https://drive.google.com/file/d/1SM-Cf646IGJ1_NDHJsMHABOi9f12xtvo/view?usp=sharing",
 			contractAddress: "",
-			down: ["购买SpacePi"],
+			down: ["购买Pi Network"],
 			index_Liquidity_title: "流動性ロック",
 			index_Liquidity: "https://dxsale.app/app/v3_3/dxlockview?id=0&add=0x7f1b11a798273dA438b4b132dF1383d8387e73b4&type=lplock&chain=BSC",
 			index_Goplus_title: "Goplus検出",
@@ -5787,7 +5875,7 @@
 	e719: function(t) {
 		t.exports = JSON.parse(
 			'{"contractName":"PerSale","abi":[{"inputs":[{"internalType":"uint256","name":"start","type":"uint256"},{"internalType":"uint256","name":"end","type":"uint256"},{"internalType":"address","name":"_moneyIn","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"inviter","type":"address"},{"indexed":true,"internalType":"address","name":"invitee","type":"address"}],"name":"BondInvite","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"sender","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"ETHIn","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"sender","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"stage","type":"uint256"}],"name":"Withdraw","type":"event"},{"inputs":[],"name":"UDENO","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"airdropStart","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"airdropped","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"cashier","outputs":[{"internalType":"address payable","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"decimals","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"endTime","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"invitePercentage","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"perHTPrice","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"perInviteAirdropAmount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"stages","outputs":[{"internalType":"uint256","name":"blockNumber","type":"uint256"},{"internalType":"uint256","name":"percentage","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"startTime","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"token","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalAirdrop","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalSale","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"totalSupply","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_token","type":"address"}],"name":"setToken","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"time","type":"uint256"}],"name":"setStartTime","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"time","type":"uint256"}],"name":"setEndTime","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_value","type":"uint256"}],"name":"setPerInviteAirdropAmount","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_value","type":"uint256"}],"name":"setTotalAirdrop","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_value","type":"uint256"}],"name":"setAirdropStart","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"price","type":"uint256"}],"name":"setPerHTPrice","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_cashier","type":"address"}],"name":"setCashier","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_stage","type":"uint256"},{"internalType":"uint256","name":"blockNum","type":"uint256"},{"internalType":"uint256","name":"percent","type":"uint256"}],"name":"setStage","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"buy","outputs":[],"stateMutability":"payable","type":"function","payable":true},{"inputs":[{"internalType":"address","name":"inviter","type":"address"}],"name":"getInvitee","outputs":[{"internalType":"address[]","name":"","type":"address[]"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"player","type":"address"}],"name":"getInviteInfo","outputs":[{"components":[{"internalType":"address[]","name":"invites","type":"address[]"},{"internalType":"address","name":"inviter","type":"address"},{"internalType":"bool","name":"isInvited","type":"bool"}],"internalType":"struct PerSale.InviteInfo","name":"","type":"tuple"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"uint256","name":"stage","type":"uint256"}],"name":"withdrawByStage","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"getStage","outputs":[{"components":[{"internalType":"uint256","name":"blockNumber","type":"uint256"},{"internalType":"uint256","name":"percentage","type":"uint256"}],"internalType":"struct PerSale.Stage[]","name":"","type":"tuple[]"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"user","type":"address"}],"name":"getUserLock","outputs":[{"internalType":"uint256[4]","name":"locks","type":"uint256[4]"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"inviter","type":"address"}],"name":"bondInvite","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"a1","type":"address"},{"internalType":"address","name":"a2","type":"address"}],"name":"checkIsInvite","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[{"internalType":"address","name":"user","type":"address"}],"name":"isInvited","outputs":[{"internalType":"address","name":"","type":"address"},{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function","constant":true},{"inputs":[],"name":"airdrop","outputs":[],"stateMutability":"payable","type":"function","payable":true},{"inputs":[{"internalType":"address","name":"_user","type":"address"}],"name":"getIsAirdrop","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"}],"address":"0xee5210a385C2a3Ef922b319523AeF19dBc3F343C"}'
-			)
+		)
 	},
 	e87a: function(t, e) {
 		t.exports =
