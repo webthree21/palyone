@@ -1007,28 +1007,7 @@
 						localeData: [{
 							key: "en_US",
 							name: "En"
-						}, {
-							key: "tr_TR",
-							name: "Türk"
-						}, {
-							key: "ko_KR",
-							name: "한국어"
-						}, {
-							key: "ja_JP",
-							name: "日本"
-						}, {
-							key: "in",
-							name: "Indonesia"
-						}, {
-							key: "th",
-							name: "ไทย"
-						}, {
-							key: "ar",
-							name: "عربي"
-						}, {
-							key: "zh_TW",
-							name: "繁體中文"
-						}, {
+						},{
 							key: "zh_CN",
 							name: "简体中文"
 						}],
@@ -2890,12 +2869,23 @@
 						staticClass: "join-a",
 						on: {
 							click: function(a) {
-								return t.Jump(e.link)
+								// return t.Jump(e.link)
+								return 
 							}
 						}
 					}, [i("div", {
 						staticClass: "join-img"
-					}, 1)])
+					}, [i("v-img", {
+						staticClass: "join-img-w",
+						attrs: {
+							src: e.picture
+						}
+					}), i("v-img", {
+						staticClass: "join-img-h",
+						attrs: {
+							src: e.picture1
+						}
+					})], 1)])
 				})), 0)]), i("div", {
 					staticClass: "foot-line"
 				}), i("div", {
@@ -2911,31 +2901,10 @@
 						localeData: [{
 							key: "en_US",
 							name: "En"
-						}, {
-							key: "tr_TR",
-							name: "Türk"
-						}, {
-							key: "ko_KR",
-							name: "한국어"
-						}, {
-							key: "ja_JP",
-							name: "日本"
-						}, {
-							key: "in",
-							name: "Indonesia"
-						}, {
-							key: "th",
-							name: "ไทย"
-						}, {
-							key: "ar",
-							name: "عربي"
-						}, {
-							key: "zh_TW",
-							name: "繁體中文"
-						}, {
+						},{
 							key: "zh_CN",
 							name: "简体中文"
-						}]
+						}],
 					}
 				},
 				props: {},
@@ -2956,7 +2925,7 @@
 					bottomPartners: function() {
 						var t = this;
 						p.a.post(this.domainUrl + "bottomPartners", {}).then((function(e) {
-							t.url = e.data.data
+							t.url.push(e.data.data[0])
 						})).catch((function(t) {}))
 					},
 					localeClick: function(t) {
