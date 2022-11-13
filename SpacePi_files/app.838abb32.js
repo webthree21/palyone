@@ -2869,8 +2869,7 @@
 						staticClass: "join-a",
 						on: {
 							click: function(a) {
-								// return t.Jump(e.link)
-								return 
+								return t.Jump('https://twitter.com/Pi_NetworkDao')
 							}
 						}
 					}, [i("div", {
