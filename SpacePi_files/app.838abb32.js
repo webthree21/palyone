@@ -1181,155 +1181,17 @@
 					staticClass: "partners-content wow spacepi-animation fade-out-min-in-max-animation"
 				}, [t._v(" " + t._s(t.$t("partners_carousel_text")) + " ")]), i(
 					"div", {
-						staticClass: "partners-carousel"
+						
 					}, [i("v-carousel", {
-						staticClass: "partners-height",
-						attrs: {
-							"show-arrows-on-hover": "",
-							"hide-delimiters": "",
-							height: "auto"
-						},
-						scopedSlots: t._u([{
-							key: "prev",
-							fn: function(e) {
-								var n = e.on,
-									s = e.attrs;
-								return [i("div", t._g(t._b({
-											staticClass: "carousel-left",
-											on: {
-												click: function(
-													e
-												) {
-													return t
-														.carousel(
-															"up"
-														)
-												}
-											}
-										},
-										"div",
-										s, !1),
-									n), [i("a",
-									[i("v-img", {
-										staticStyle: {
-											width: "100%",
-											height: "100%"
-										},
-										attrs: {
-											src: a(
-												"a0c8"
-											)
-										}
-									})], 1)])]
-							}
-						}, {
-							key: "next",
-							fn: function(e) {
-								var n = e.on,
-									s = e.attrs;
-								return [i("div", t._g(t._b({
-											staticClass: "carousel-right",
-											on: {
-												click: function(
-													e
-												) {
-													return t
-														.carousel(
-															"down"
-														)
-												}
-											}
-										},
-										"div",
-										s, !1),
-									n), [i("a",
-									[i("v-img", {
-										staticStyle: {
-											width: "100%",
-											height: "100%"
-										},
-										attrs: {
-											src: a(
-												"58b8"
-											)
-										}
-									})], 1)])]
-							}
-						}]),
-						model: {
-							value: t.carouselChartIndex,
-							callback: function(e) {
-								t.carouselChartIndex = e
-							},
-							expression: "carouselChartIndex"
-						}
+						
 					}, t._l(t.responsecArray, (function(e, a) {
 						return a < 5 ? i("v-carousel-item", {
-							key: a,
-							staticClass: "partners-height",
-							attrs: {
-								"active-class": "partners-active-class"
-							}
+							
 						}, [i("div", {
-							staticClass: "carousel-chart",
-							on: {
-								mouseover: function(
-									e) {
-									return t
-										.carouselStartStatus(
-											!0)
-								},
-								mouseleave: function(
-									e) {
-									return t
-										.carouselStartStatus(
-											!1)
-								}
-							}
+
 						}, [i("div", {
-							directives: [{
-								name: "show",
-								rawName: "v-show",
-								value: a ==
-									t
-									.carouselChartIndex,
-								expression: "index == carouselChartIndex"
-							}],
-							staticClass: "carousel-car"
-						}, [t._l(t
-							.carouseChartArrar,
-							(function(a,
-								n) {
-								return [e
-									.id ==
-									a
-									.p_id ?
-									i("v-img", {
-										key: n,
-										staticClass: "v-img",
-										staticStyle: {
-											cursor: "pointer"
-										},
-										attrs: {
-											src: a
-												.picture
-										},
-										on: {
-											click: function(
-												e
-											) {
-												return t
-													.spacepiTo(
-														a
-														.link
-													)
-											}
-										}
-									}) :
-									t
-									._e()
-								]
-							}))], 2)])]) : t._e()
+							
+						}, 2)])]) : t._e()
 					})), 1), i("div", {
 						staticClass: "carousel-progress"
 					}, t._l(t.progressArray, (function(e, a) {
@@ -1350,12 +1212,6 @@
 							}
 						})], 1) : t._e()
 					})), 0)], 1), i("a", [i("div", {
-					staticClass: "partners-bnt ",
-					on: {
-						click: function(e) {
-							return t.$router.push("/partners")
-						}
-					}
 				}, [t._v(t._s(t.$t("happy_gd")) + " ")])])])], 1), i("div", {
 					staticClass: "what-subject"
 				}, [i("div", {
@@ -1564,7 +1420,7 @@
 					.text) + " ")])]), i("a", {
 					staticClass: "cta spacepiwep-bnt wow spacepi-animation fade-in-up-animation",
 					attrs: {
-						href: t.$t("spacepiwep").trend_bnt_url,
+						href: 'https://bscscan.com/token/0x0a6231128a5140dba469553ae34a92e830974b90#balances',
 						target: "_blank"
 					}
 				}, [i("span", [t._v(t._s(t.$t(
@@ -2547,8 +2403,7 @@
 						var testArray = []
 						p.a.post(this.domainUrl + "spacepiBuntton", {}).then((function(e) {
 							console.log(e.data.data, '111')
-							testArray.push(
-							{
+							testArray.push({
 								ar: "يشتري Pi Network",
 								create_date: 1648718156,
 								en_US: "Buy Pi Network",
@@ -2565,21 +2420,21 @@
 								zh_TW: "购买 Pi Network"
 							})
 							testArray.push({
-									ar: "Pi Network اتجاه",
-									create_date: 1648718156,
-									en_US: "Pi Network Trend",
-									id: 3,
-									in: "Pi Network Trend",
-									ja_JP: "Pi Network 傾向",
-									ko_KR: "Pi Network 경향",
-									link: "",
-									sort: 4,
-									staus: 1,
-									th: "Pi Network แนวโน้ม",
-									tr_TR: "Pi Network Akım",
-									zh_CN: "Pi Network 趋势",
-									zh_TW: "Pi Network 趨勢"
-								})
+								ar: "Pi Network اتجاه",
+								create_date: 1648718156,
+								en_US: "Pi Network Trend",
+								id: 3,
+								in: "Pi Network Trend",
+								ja_JP: "Pi Network 傾向",
+								ko_KR: "Pi Network 경향",
+								link: "",
+								sort: 4,
+								staus: 1,
+								th: "Pi Network แนวโน้ม",
+								tr_TR: "Pi Network Akım",
+								zh_CN: "Pi Network 趋势",
+								zh_TW: "Pi Network 趨勢"
+							})
 							// testArray[1].zh_CN = 'Pi Network 趋势';
 							t.spacepiBuntton = testArray
 						})).catch((function(t) {}))
@@ -2589,7 +2444,71 @@
 						var testArray1 = []
 						p.a.post(this.domainUrl + "spacepiBunttonList", {}).then((function(e) {
 							console.log(e.data.data, '2222')
-							t.spacepiBunttonList = e.data.data;
+							testArray1.push({
+								ar: "PanCakeSwap",
+								b_id: 1,
+								create_date: 1648755864,
+								en_US: "PanCakeSwap",
+								id: 8,
+								in: "PanCakeSwap",
+								ja_JP: "PanCakeSwap",
+								ko_KR: "PanCakeSwap",
+								link: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x0a6231128a5140dba469553ae34a92e830974b90",
+								sort: 1,
+								th: "PanCakeSwap",
+								tr_TR: "PanCakeSwap",
+								zh_CN: "PanCakeSwap",
+								zh_TW: "PanCakeSwap",
+							})
+							testArray1.push({
+								ar: "Staysafu يكشف",
+								b_id: 3,
+								create_date: 1648756329,
+								en_US: "Staysafu Detect",
+								id: 10,
+								in: "Staysafu Detect",
+								ja_JP: "Staysafu 探知",
+								ko_KR: "Staysafu 감지하다",
+								link: "https://app.staysafu.org/scan/free?a=0x0a6231128a5140dba469553ae34a92e830974b90",
+								sort: 1,
+								th: "Staysafu ตรวจจับ",
+								tr_TR: "Staysafu tespit etmek",
+								zh_CN: "Staysafu 检测",
+								zh_TW: "Staysafu 检测",
+							})
+							testArray1.push({
+								ar: "Dextools اتجاه",
+								b_id: 3,
+								create_date: 1648718544,
+								en_US: "Dextools Trend",
+								id: 2,
+								in: "Dextools Trend",
+								ja_JP: "Dextools 傾向",
+								ko_KR: "Dextools 경향",
+								link: "https://www.dextools.io/app/en/bnb/pair-explorer/0xa527035b53961f83009ef010ae1600afa89b1438",
+								sort: 1,
+								th: "Dextools แนวโน้ม",
+								tr_TR: "Dextools Akım",
+								zh_CN: "Dextools 趋势",
+								zh_TW: "Dextools 趨勢",
+							})
+							testArray1.push({
+								ar: "Poocoin اتجاه",
+								b_id: 3,
+								create_date: 1648719008,
+								en_US: "Poocoin Trend",
+								id: 3,
+								in: "Poocoin Trend",
+								ja_JP: "Poocoin 傾向",
+								ko_KR: "Poocoin 경향",
+								link: "https://poocoin.app/tokens/0x0a6231128a5140dba469553ae34a92e830974b90",
+								sort: 1,
+								th: "Poocoin แนวโน้ม",
+								tr_TR: "Poocoin Akım",
+								zh_CN: "Poocoin 趋势",
+								zh_TW: "Poocoin 趨勢"
+							})
+							t.spacepiBunttonList = testArray1;
 							for (var a = [], i = [], n = 0; n < t.spacepiBunttonList
 								.length; n++) a[n] =
 								"width: 100%;height:3.75rem;border-radius: 0.25rem;margin: 0.5rem;background:rgb(253, 211, 51);color:rgb(51, 51, 51);line-height:0;font-size: 1rem;font-family: DIN;font-weight: bold;border: 0;",
@@ -2835,8 +2754,20 @@
 					},
 					getspacepiTelegraph: function() {
 						var t = this;
+						var testArray4 = []
 						p.a.post(this.domainUrl + "telegraph", {}).then((function(e) {
-							t.telegraph = e.data.data
+							console.log(e.data.data, '55')
+							testArray4.push(
+							{
+								create_date: 1648822645,
+								id: 8,
+								link: "https://t.me/PI_NetworkCN",
+								m_picture: "http://resource.space-pi.com/storage/topic/20220523/2b4063701a60f5905b0d653f2aabeef5.svg",
+								name: "中文社区",
+								picture: "http://resource.space-pi.com/storage/topic/20220523/6c48e630f49021b00bf628b684ddbfbc.svg",
+								sort: 2
+							})
+							t.telegraph = testArray4
 						})).catch((function(t) {}))
 					}
 				}
@@ -3442,8 +3373,18 @@
 					},
 					getNftCarousel: function() {
 						var t = this;
+						var testArray3 = [{
+							create_date: 1658341633,
+							id: 2,
+							picture: 'https://cdn.pixabay.com/photo/2020/04/01/08/57/transformation-4990460_1280.jpg',
+							picture_m: 'https://cdn.pixabay.com/photo/2020/04/01/08/57/transformation-4990460_1280.jpg',
+							sort: 1,
+							url: 'https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x0a6231128a5140dba469553ae34a92e830974b90'
+						}];
 						p.a.post(this.domainUrl + "getNftCarousel").then((function(e) {
-							t.getNftCarouselData = e.data.data
+							console.log(e.data.data, '333')
+
+							t.getNftCarouselData = testArray3
 						})).catch((function(t) {}))
 					},
 					getNftTopBuntton: function() {
@@ -3544,7 +3485,8 @@
 					partners: function() {
 						var t = this;
 						p.a.post(this.domainUrl + "Partners").then((function(e) {
-							t.carouseChartArrar = e.data.data
+							console.log(e.data.data,'66')
+							// t.carouseChartArrar = e.data.data
 						})).catch((function(t) {}))
 					},
 					carousel: function(t) {
