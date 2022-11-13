@@ -231,11 +231,11 @@
 				title: "公平的通證生態",
 				content: "為了建立我們在地球之外的民主載體，PI Network基於公平的通證生態發",
 				array: [{
-					title: "無",
+					title: "1%",
 					text: "開發稅"
 				}, {
-					title: "無",
-					text: "通證燃燒"
+					title: "1%",
+					text: "流动性"
 				}, {
 					title: "120k+",
 					text: "持有人"
@@ -275,23 +275,23 @@
 			answers: {
 				text: "PI Network 是全世界唯一一款綜合服務商類型多重跨鏈協議通證",
 				array: [{
-					title: "1.SpacePi描述的的元宇宙是什麼？",
+					title: "1.Pi Network描述的的元宇宙是什麼？",
 					text: "遊戲是元宇宙的初級形態。從產品形態看，遊戲是元宇宙的雛形。遊戲作為人們基於現實的模擬、延伸、 天馬行空的想像而構建的虛擬世界，其產品形態與元宇宙相似。如果您熟悉這本書或電影《頭號玩家》， 這是元宇宙的一個很好的例子。"
 				}, {
 					title: "2.元宇宙重要嗎？",
-					text: "基於 Web3.0、全息互聯網技術、區塊鍊和NFT的融合，元宇宙概念所展現岀來的價值觀與互聯網核心價值相契合。 SpacePi認為，元宇宙或許是互聯網的終極形態。因此，我們以遊戲為切入點，打造了SpacePi——基於NFT+元宇宙的虛擬人生區塊鏈遊戲，讓現實與虛擬的鏈接更加高效，也讓價值的流通更加豐富。在最近的全球疫情中，這些數字平台的重要性變得顯而易見。"
+					text: "基於 Web3.0、全息互聯網技術、區塊鍊和NFT的融合，元宇宙概念所展現岀來的價值觀與互聯網核心價值相契合。 SpacePi認為，元宇宙或許是互聯網的終極形態。因此，我們以遊戲為切入點，打造了Pi Network——基於NFT+元宇宙的虛擬人生區塊鏈遊戲，讓現實與虛擬的鏈接更加高效，也讓價值的流通更加豐富。在最近的全球疫情中，這些數字平台的重要性變得顯而易見。"
 				}, {
 					title: "3.PI Network生態系統是什麼？",
-					text: "為NFT+元宇宙概念支撐下的區塊鏈遊戲，PI Network 在平台生態建設方麵包含了一下幾個核心板塊  NFT遊戲系統元宇宙遊戲生態SpacePi交易所 "
+					text: "為NFT+元宇宙概念支撐下的區塊鏈遊戲，PI Network 在平台生態建設方麵包含了一下幾個核心板塊  NFT遊戲系統元宇宙遊戲生態Pi Network交易所 "
 				}, {
 					title: "4.在PI Network元宇宙中我們可以做什麼？",
 					text: "PI Network Token 簡稱 PI Network,結合NFT和元宇宙這兩大區塊鏈範疇，旨在打造一個去中心化的在線虛擬現實類游戲平台，將角色、道具以及人生的故事情節節融入到虛擬社交中，玩家可在虛擬世界中購買武器、戰甲、道具寶石。參與不同的收集養成虛擬、生活、動作等 遊戲。因此，PI Network 是第一個也是唯一一個跨元宇宙和NFT領域項目"
 				}, {
 					title: "5.在PI Network元宇宙中如何獲取收益？",
-					text: "PI Network 還能夠支持第三方開發者進行面向區塊鏈環境的去中心化遊戲應用、混合架構遊戲應用的編程、調試與發布。同時，SpacePi整合了包括基於區塊鏈的分佈式用戶賬戶系統、錢包和NFT數字資產流通，可以實現應用內游戲資產NFT的脫鏈永久保存及跨鏈使用。"
+					text: "PI Network 還能夠支持第三方開發者進行面向區塊鏈環境的去中心化遊戲應用、混合架構遊戲應用的編程、調試與發布。同時，Pi Network整合了包括基於區塊鏈的分佈式用戶賬戶系統、錢包和NFT數字資產流通，可以實現應用內游戲資產NFT的脫鏈永久保存及跨鏈使用。"
 				}, {
 					title: "6.PI Network的開發人員？",
-					text: "PI Network元宇宙由世界各地的獨立開發者共同參與開發，在指導、管理和增強加密相關項目方面的經驗和能力幾乎無與倫比。他們共同組成了一個強大的團隊，背後有一群志同道合的支持者，他們對PI Network元宇宙願景充滿信心和熱情，SpacePi是進入元宇宙世界的新冒險。"
+					text: "PI Network元宇宙由世界各地的獨立開發者共同參與開發，在指導、管理和增強加密相關項目方面的經驗和能力幾乎無與倫比。他們共同組成了一個強大的團隊，背後有一群志同道合的支持者，他們對PI Network元宇宙願景充滿信心和熱情，Pi Network是進入元宇宙世界的新冒險。"
 				}, {
 					title: "7.我如何提供更多的幫助？",
 					text: "由於完全去中心化，PI Network元宇宙將需要更加龐大的社區才能達到我們的目標，歡迎您加入PI Network"
@@ -448,11 +448,11 @@
 				title: "公平的通证生态",
 				content: "为了建立我们在地球之外的民主载体，PI Network基于公平的通证生态发布",
 				array: [{
-					title: "0%",
+					title: "1%",
 					text: "开发税"
 				}, {
-					title: "2%",
-					text: "通证燃烧"
+					title: "1%",
+					text: "流动性"
 				}, {
 					title: "120k+",
 					text: "持有人"
@@ -492,20 +492,20 @@
 			answers: {
 				text: "PI Network 是全世界唯一一款综合服务商类型多重跨链协议通证",
 				array: [{
-					title: "1.SpacePi描述的的元宇宙是什么？",
+					title: "1.Pi Network描述的的元宇宙是什么？？",
 					text: "游戏是元宇宙的初级形态。从产品形态看，游戏是元宇宙的雏形。游戏作为人们基于现实的模拟、延伸、 天马行空的想象而构建的虚拟世界，其产品形态与元宇宙相似。 如果您熟悉这本书或电影《头号玩家》， 这是元宇宙的一个很好的例子。"
 				}, {
 					title: "2.元宇宙重要吗？",
-					text: "基于 Web3.0、全息互联网技术、区块链和NFT的融合，元宇宙概念所展现岀来的价值观与互联网核心价值相契合。SpacePi认为，元宇宙或许是互联网的终极形态。因此，我们以游戏为切入点，打造了SpacePi——基于NFT+元宇宙的虚拟人生区块链游戏，让现实与虚拟的链接更加高效，也让价值的流通更加丰富。在最近的全球疫情中，这些数字平台的重要性变得显而易见。"
+					text: "基于 Web3.0、全息互联网技术、区块链和NFT的融合，元宇宙概念所展现岀来的价值观与互联网核心价值相契合。Pi Network认为，元宇宙或许是互联网的终极形态。因此，我们以游戏为切入点，打造了Pi Network——基于NFT+元宇宙的虚拟人生区块链游戏，让现实与虚拟的链接更加高效，也让价值的流通更加丰富。在最近的全球疫情中，这些数字平台的重要性变得显而易见。"
 				}, {
 					title: "3.PI Network生态系统是什么？",
-					text: "为NFT+元宇宙概念支撑下的区块链游戏，PI Network 在平台生态建设方面包含了一下几个核心板块  NFT游戏系统元宇宙游戏生态SpacePi交易所 "
+					text: "为NFT+元宇宙概念支撑下的区块链游戏，PI Network 在平台生态建设方面包含了一下几个核心板块  NFT游戏系统元宇宙游戏生态Pi Network交易所 "
 				}, {
 					title: "4.在PI Network元宇宙中我们可以做什么？",
 					text: "PI Network Token 简称 PI Network,结合NFT和元宇宙这两大区块链范畴，旨在打造一个去中心化的在线虚拟现实类游戏平台，将角色、道具以及人生的故事情节节融入到虚拟社交中，玩家可在虚拟世界中购买武器、战甲、道具宝石。参与不同的收集养成虚拟、生活、动作等 游戏。因此，PI Network 是第一个也是唯一一个跨元宇宙和NFT领域项目"
 				}, {
 					title: "5.在PI Network元宇宙中如何获取收益？",
-					text: "PI Network 还能够支持第三方开发者进行面向区块链环境的去中心化游戏应用、混合架构游戏应用的编程、调试与发布。同时，SpacePi整合了包括基于区块链的分布式用户账户系统、钱包和NFT数字资产流通，可以实现应用内游戏资产NFT的脱链永久保存及跨链使用。"
+					text: "PI Network 还能够支持第三方开发者进行面向区块链环境的去中心化游戏应用、混合架构游戏应用的编程、调试与发布。同时，Pi Network整合了包括基于区块链的分布式用户账户系统、钱包和NFT数字资产流通，可以实现应用内游戏资产NFT的脱链永久保存及跨链使用。"
 				}, {
 					title: "6.PI Network的开发人员？",
 					text: "PI Network元宇宙由世界各地的独立开发者共同参与开发，在指导、管理和增强加密相关项目方面的经验和能力几乎无与伦比。 他们共同组成了一个强大的团队，背后有一群志同道合的支持者，他们对PI Network元宇宙愿景充满信心和热情，SpacePi是进入元宇宙世界的新冒险。"
@@ -794,9 +794,9 @@
 					}
 				})], 1), i("div", {
 					staticClass: "logo-title"
-				}, [i("span", [t._v("space")]), i("span", {
+				}, [i("span", [t._v("Pi ")]), i("span", {
 					staticClass: "y"
-				}, [t._v("pi")])])])]), i("div", {
+				}, [t._v("Network")])])])]), i("div", {
 					staticClass: "tabs"
 				}, [i("a", {
 					on: {
@@ -1271,11 +1271,7 @@
 					}
 				})], 1)]), i("div", {
 					staticClass: "aircraft-img"
-				}, [i("v-img", {
-					attrs: {
-						src: a("726e")
-					}
-				})], 1)])])])], 1)], 1)]), i("div", {
+				}, 1)])])])], 1)], 1)]), i("div", {
 					staticClass: "spacepi_bg"
 				}, [i("v-container", {
 					staticClass: "concept-container"
@@ -2771,7 +2767,7 @@
 					}
 				})], 1), i("div", {
 					staticClass: "logo-title-subject"
-				}, [i("span", [t._v("Pi ")]), i("span", {
+				}, [i("span", [t._v("Pi ")]), i("span1", {
 					staticClass: "y"
 				}, [t._v("Network")])])]), i("div", {
 					staticClass: "logo-right"
@@ -4925,15 +4921,15 @@
 			partners_carousel_text: "PI Network HER ZAMAN PI NETWORK'ÜN İNANÇ HAYRANI OLACAKTIR! PI Network'NİN ŞİMDİ YAPTIĞI HER ŞEY, PI HAYRANLARININ DİRENİŞİNİN buna DEĞER OLDUĞUNU KANITLAMAK İÇİNDİR!",
 			selectLang: "Bir dil seçin",
 			happy_gd: "Daha Dost Ortaklar",
-			happy_text: "SpacePi'nin daha büyük yeniliklere imza atması için SHIBA Token ile aynı seviyeyi benimseyerek sözleşmeyi en güvenli mekanizmaya yükseltmeye karar verdik.Yükselen sözleşme tüm izinlerden vazgeçecek ve kilitlenecektir.Sözleşme adresi:",
+			happy_text: "Pi Network nin daha büyük yeniliklere imza atması için SHIBA Token ile aynı seviyeyi benimseyerek sözleşmeyi en güvenli mekanizmaya yükseltmeye karar verdik.Yükselen sözleşme tüm izinlerden vazgeçecek ve kilitlenecektir.Sözleşme adresi:",
 			happy_text1: "PI Network her zaman Pi Network'ün inançlı bir hayranı olacak!",
-			happy_text2: "SpacePi'nin şimdi yaptığı her şey, Pi Hayranlarının ısrarının buna değdiğini kanıtlamak!",
+			happy_text2: "Pi Network nin şimdi yaptığı her şey, Pi Hayranlarının ısrarının buna değdiğini kanıtlamak!",
 			doge: "PI Network nedir?",
 			only: "Dünyanın tek kapsamlı hizmet sağlayıcı türü çoklu zincirler arası protokol belirteci",
-			introduce: "SpacePi, blockchain alanında teknik engelleri aşan ve kapsamlı hizmet sağlayıcı türlerinin çoklu zincirler arası protokol sertifikalarını entegre eden tek kişi olacak.Gelecek tüm blockchain dijital varlık oyuncularına ait.Bu harika ana tanık olmak için birlikte çalışalım!",
-			text: ["SpacePi, çekirdek olarak basit ve verimli bir metaverse dijital daldırma deneyimi sağlayan benzeri görülmemiş bir üst düzey dijital ekosistem yaratacaktır. Token dolaşımının değerini bahşedin, daha fazla insanın SpacePi'nin ekolojik yapısına katılmasına izin verin, sınırsız bir eğlence dünyası yaratın, dünyanın her köşesindeki kullanıcıları birbirine bağlayın ve küresel kullanıcılar için güvenilir ve oldukça merkezi olmayan bir metaverse ekolojisi kurun.",
+			introduce: "Pi Network, blockchain alanında teknik engelleri aşan ve kapsamlı hizmet sağlayıcı türlerinin çoklu zincirler arası protokol sertifikalarını entegre eden tek kişi olacak.Gelecek tüm blockchain dijital varlık oyuncularına ait.Bu harika ana tanık olmak için birlikte çalışalım!",
+			text: ["SpacePi, çekirdek olarak basit ve verimli bir metaverse dijital daldırma deneyimi sağlayan benzeri görülmemiş bir üst düzey dijital ekosistem yaratacaktır. Token dolaşımının değerini bahşedin, daha fazla insanın Pi Network nin ekolojik yapısına katılmasına izin verin, sınırsız bir eğlence dünyası yaratın, dünyanın her köşesindeki kullanıcıları birbirine bağlayın ve küresel kullanıcılar için güvenilir ve oldukça merkezi olmayan bir metaverse ekolojisi kurun.",
 				"SpacePi, NFT ve Metaverse'in iki ana blok zinciri kategorisini içerir.SpacePi, karakterleri, sahne donanımlarını ve yaşam hikayelerini sanal sosyal etkileşime entegre eden merkezi olmayan bir çevrimiçi sanal gerçeklik oyun platformu inşa ediyor.Oyuncular sanal dünyada oynayabilir.Silah, zırh, sahne satın almak için ve mücevherler. Sanal, yaşam, aksiyon ve diğer oyunları geliştirmek için farklı koleksiyonlara katılın.",
-				"SpacePi'nin tüm faydaları, yerel simge PI Network biçiminde sunulacaktır. PI Network meta veri tabanının sanal ve gerçekliği birbirine son derece bağlıdır ve açık kaynak platformuna bağlı kapalı döngü ekonomisi, İnternet'in son biçimi haline gelmiştir."
+				"Pi Network nin tüm faydaları, yerel simge PI Network biçiminde sunulacaktır. PI Network meta veri tabanının sanal ve gerçekliği birbirine son derece bağlıdır ve açık kaynak platformuna bağlı kapalı döngü ekonomisi, İnternet'in son biçimi haline gelmiştir."
 			],
 			tetxbu: "Beyaz kağıdı okuyun",
 			tetxbu_url: "https://drive.google.com/file/d/1SM-Cf646IGJ1_NDHJsMHABOi9f12xtvo/view?usp=sharing",
@@ -5012,10 +5008,10 @@
 				title: "Adil belirteç ekolojisi",
 				content: "Demokratik taşıyıcımızı dünyanın dışında inşa etmek için SpacePi, adil bir belirteç ekolojisine dayalı olarak piyasaya sürüldü.",
 				array: [{
-					title: "olmadan",
+					title: "1%",
 					text: "kalkınma vergisi"
 				}, {
-					title: "olmadan",
+					title: "1%",
 					text: "jeton yakma"
 				}, {
 					title: "120k+",
@@ -5049,7 +5045,7 @@
 			rt2_text9: "Piyasadaki en iyi CEX'leri listeleyin",
 			Community: {
 				title: "PI Network küresel topluluğuna katılın",
-				text: "SpacePi, blockchain alanında teknik engelleri aşan ve kapsamlı hizmet sağlayıcı türlerinin çoklu zincirler arası protokol sertifikalarını entegre eden tek kişi olacak.Gelecek tüm blockchain dijital varlık oyuncularına ait.Bu harika ana tanık olmak için birlikte çalışalım!",
+				text: "Pi Network, blockchain alanında teknik engelleri aşan ve kapsamlı hizmet sağlayıcı türlerinin çoklu zincirler arası protokol sertifikalarını entegre eden tek kişi olacak.Gelecek tüm blockchain dijital varlık oyuncularına ait.Bu harika ana tanık olmak için birlikte çalışalım!",
 				buttext: "bize katılın",
 				buttext_url: "https://t.me/PI_NetworkCN"
 			},
@@ -5090,7 +5086,7 @@
 			copySuccess: "kopya başarı",
 			partners_title1: "PI Network HER ZAMAN OLACAK",
 			partners_title2: "PI NETWORK'ÜN İNANÇ HAYRANI OLUN!",
-			partners_text: "SpacePi'nin şimdi yaptığı her şey, Pi Hayranlarının ısrarının buna değdiğini kanıtlamak! PI Network ile işbirliği yapmak için daha fazla platforma ve kuruma hoş geldiniz, resmi iletişim e-postası: pi@space-pi.com",
+			partners_text: "Pi Network nin şimdi yaptığı her şey, Pi Hayranlarının ısrarının buna değdiğini kanıtlamak! PI Network ile işbirliği yapmak için daha fazla platforma ve kuruma hoş geldiniz, resmi iletişim e-postası: pi@space-pi.com",
 			partners_email_title: "RESMİ İLETİŞİM E-POSTA:",
 			partners_email: "pi@space-pi.com"
 		};
@@ -5154,7 +5150,7 @@
 				title: "SPISWAP",
 				o: "On board",
 				bnt: "Audit Report",
-				text: "Based on this point of view, PI Network has become an investment tool for purchasing virtual assets or services in its ecosystem, and it will burst out with new vitality and unprecedented value with the application of SpacePi. Here are some key points of the PI Network ecosystem.",
+				text: "Based on this point of view, PI Network has become an investment tool for purchasing virtual assets or services in its ecosystem, and it will burst out with new vitality and unprecedented value with the application of PI Network. Here are some key points of the PI Network ecosystem.",
 				trend_bnt_title: "SPISWAP",
 				trend_bnt_url: "https://spi-swap.com/swap"
 			},
@@ -5167,9 +5163,9 @@
 			doge: "WHAT IS PI Network？",
 			only: "The world's only comprehensive service provider type multiple cross-chain protocol token",
 			introduce: "PI Network will be the only one in the blockchain field that breaks technical barriers and integrates multiple cross-chain protocol tokens of integrated service provider types. The future belongs to all blockchain digital asset players. Let us work together to witness this great moment!",
-			text: ["PI Network will create an unprecedented top-level digital ecosystem, providing a simple and efficient metaverse digital immersion experience as the core. Endows the token circulation value, allows more people to participate in the ecological construction of SpacePi, creates a borderless entertainment world, links users in every corner of the world, and establishes a trustless and highly decentralized metaverse ecology for global users.",
+			text: ["PI Network will create an unprecedented top-level digital ecosystem, providing a simple and efficient metaverse digital immersion experience as the core. Endows the token circulation value, allows more people to participate in the ecological construction of PI Network, creates a borderless entertainment world, links users in every corner of the world, and establishes a trustless and highly decentralized metaverse ecology for global users.",
 				"PI Network includes two major blockchain categories, NFT and Metaverse. PI Network is building a decentralized online virtual reality game platform that integrates characters, props and life storylines into virtual social interactions. Players can play in the virtual world. to buy weapons, armor, props and gems. Participate in different collections to develop virtual, life, action and other games.",
-				"All the benefits of PI Network will be presented in the form of the native token SpacePi. The virtual and reality of the PI Network metaverse are highly interconnected, and the closed-loop economy attached to the open-source platform has become the final form of the Internet."
+				"All the benefits of PI Network will be presented in the form of the native token PI Network. The virtual and reality of the PI Network metaverse are highly interconnected, and the closed-loop economy attached to the open-source platform has become the final form of the Internet."
 			],
 			tetxbu: "Whitepaper",
 			tetxbu_url: "https://drive.google.com/file/d/1SM-Cf646IGJ1_NDHJsMHABOi9f12xtvo/view?usp=sharing",
@@ -5194,19 +5190,19 @@
 				content: "PI Network will create an unprecedented top-level digital ecosystem, providing a simple and efficient metaverse digital immersion experience as the core."
 			}, {
 				title: "PI Network WORLD",
-				content: "Endows the token circulation value, allows more people to participate in the ecological construction of SpacePi, creates a borderless entertainment world, links users in every corner of the world, and establishes a trustless and highly decentralized metaverse ecology for global users."
+				content: "Endows the token circulation value, allows more people to participate in the ecological construction of PI Network, creates a borderless entertainment world, links users in every corner of the world, and establishes a trustless and highly decentralized metaverse ecology for global users."
 			}],
 			station: {
 				enter: "Powerful PI Network Ecosystem",
 				title: "IN EFFECT WE ARE BUILDING A DIGITAL WORLD LIKE NEVER BEFORE",
 				text: ["The digital economy has become a legitimate asset type worthy of investors consideration, which has exploded exponentially in the short term.",
-					"Based on this point of view, PI Network has become an investment tool for purchasing virtual assets or services in its ecosystem, and it will burst out with new vitality and unprecedented value with the application of SpacePi. Here are some key points of the PI Network ecosystem."
+					"Based on this point of view, PI Network has become an investment tool for purchasing virtual assets or services in its ecosystem, and it will burst out with new vitality and unprecedented value with the application of PI Network. Here are some key points of the PI Network ecosystem."
 				],
 				c: [{
 					title: "PI Network Token",
 					text: "A new type of utility token supported by multiple public chains, serving as a foundation in the PI Network ecosystem, serving various applications, with powerful application scenarios"
 				}, {
-					title: "Introduction to SpacePi",
+					title: "Introduction to PI Network",
 					text: "The PI Network ecosystem is based on WEB3.0 holographic Internet NFT and other technical components, and has become the most powerful technical supporter for space users in the virtual space of the Metaverse."
 				}, {
 					title: "PI Network NFTs",
@@ -5281,10 +5277,10 @@
 				title: "FAIR TOKEN ECOLOGY",
 				content: "In order to build our democratic carrier outside the earth, PI Network is based on a fair token ecological release, no private token, no development tax.",
 				array: [{
-					title: "None",
+					title: "1%",
 					text: "Development tax"
 				}, {
-					title: "None",
+					title: "1%",
 					text: "Token burning"
 				}, {
 					title: "120k+",
@@ -5688,10 +5684,10 @@
 				title: "フェアトークンエコロジー",
 				content: "地球の外に民主的なキャリアを構築するために、PI Networkは公正なトークンエコロジーに基づいてリリースされます",
 				array: [{
-					title: "それなし",
+					title: "1%",
 					text: "開発税"
 				}, {
-					title: "それなし",
+					title: "1%",
 					text: "トークンの書き込み"
 				}, {
 					title: "120k+",
@@ -5852,7 +5848,7 @@
 					"Berdasarkan sudut pandang ini, PI Network telah menjadi alat investasi untuk membeli aset atau layanan virtual di ekosistemnya, dan akan meledak dengan vitalitas baru dan nilai yang belum pernah ada sebelumnya dengan penerapan SpacePi. Berikut adalah beberapa poin penting dari ekosistem SpacePi."
 				],
 				c: [{
-					title: "Token SpacePi",
+					title: "token PI Network",
 					text: "Jenis token utilitas baru yang didukung oleh beberapa rantai publik, berfungsi sebagai fondasi dalam ekosistem SpacePi, melayani berbagai aplikasi, dengan skenario aplikasi yang kuat"
 				}, {
 					title: "Pengantar SpacePi",
@@ -6103,10 +6099,10 @@
 				title: "공정한 토큰 생태계",
 				content: "지구 밖에서 민주적인 캐리어를 구축하기 위해 PI Network는 공정한 토큰 생태계를 기반으로 출시됩니다.",
 				array: [{
-					title: "없이",
+					title: "1%",
 					text: "세"
 				}, {
-					title: "없이",
+					title: "1%",
 					text: "토큰 소각"
 				}, {
 					title: "120k+",
