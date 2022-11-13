@@ -258,7 +258,7 @@
 			rt1_text9: "啟動大規模市場推廣",
 			rt1_text10: "第二輪社區空投",
 			rt2_text1: "與第三方錢包達成合作",
-			rt2_text2: "與WSB社區一起啟動AMA",
+			rt2_text2: "",
 			rt2_text3: "200K+個電報群成員",
 			rt2_text4: "120k+名通證持有人",
 			rt2_text5: "啟動Pi NetworkSwap的開發工作",
@@ -1182,37 +1182,8 @@
 				}, [t._v(" " + t._s(t.$t("partners_carousel_text")) + " ")]), i(
 					"div", {
 						
-					}, [i("v-carousel", {
-						
-					}, t._l(t.responsecArray, (function(e, a) {
-						return a < 5 ? i("v-carousel-item", {
-							
-						}, [i("div", {
-
-						}, [i("div", {
-							
-						}, 2)])]) : t._e()
-					})), 1), i("div", {
-						staticClass: "carousel-progress"
-					}, t._l(t.progressArray, (function(e, a) {
-						return a < 5 ? i("a", {
-							key: a
-						}, [i("v-progress-linear", {
-							attrs: {
-								"background-color": "rgba(253, 211, 51, 0.6)",
-								color: "#FFB44E",
-								value: e
-							},
-							on: {
-								click: function(e) {
-									return t
-										.carouselProgressClick(
-											a)
-								}
-							}
-						})], 1) : t._e()
-					})), 0)], 1), i("a", [i("div", {
-				}, [t._v(t._s(t.$t("happy_gd")) + " ")])])])], 1), i("div", {
+					}, 1), i("a", [i("div", {
+				}, )])])], 1), i("div", {
 					staticClass: "what-subject"
 				}, [i("div", {
 					staticClass: "spacepi_bg"
@@ -2928,17 +2899,7 @@
 						}
 					}, [i("div", {
 						staticClass: "join-img"
-					}, [i("v-img", {
-						staticClass: "join-img-w",
-						attrs: {
-							src: e.picture
-						}
-					}), i("v-img", {
-						staticClass: "join-img-h",
-						attrs: {
-							src: e.picture1
-						}
-					})], 1)])
+					}, 1)])
 				})), 0)]), i("div", {
 					staticClass: "foot-line"
 				}), i("div", {
@@ -4867,7 +4828,7 @@
 			rt1_text9: "بدء التسويق الشامل",
 			rt1_text10: "الجولة الثانية من عمليات الإنزال الجوي للمجتمع",
 			rt2_text1: "التعاون مع محافظ الطرف الثالث",
-			rt2_text2: "ابدأ AMA مع مجتمع WSB",
+			rt2_text2: "",
 			rt2_text3: "200 ألف + أعضاء Telegram",
 			rt2_text4: "1000K + حاملي التوكن",
 			rt2_text5: "ابدأ في تطوير Pi NetworkSwap",
@@ -5078,7 +5039,7 @@
 			rt1_text9: "Kitlesel pazarlamayı başlatın",
 			rt1_text10: "Topluluk airdroplarının ikinci turu",
 			rt2_text1: "Üçüncü taraf cüzdanlarla işbirliği",
-			rt2_text2: "WSB topluluğuyla bir AMA başlatın",
+			rt2_text2: "",
 			rt2_text3: "200K+ Telgraf üyesi",
 			rt2_text4: "120k+ jeton sahibi",
 			rt2_text5: "Pi NetworkSwap geliştirmeye başlayın",
@@ -5307,7 +5268,7 @@
 			rt1_text9: "Initiate mass marketing",
 			rt1_text10: "The second round of community airdrops",
 			rt2_text1: "Cooperation with third-party wallets",
-			rt2_text2: "Start an AMA with the WSB community",
+			rt2_text2: "",
 			rt2_text3: "200K+ Telegram members",
 			rt2_text4: "120k+ token holders",
 			rt2_text5: "Start the development of Pi NetworkSwap",
@@ -5536,7 +5497,7 @@
 			rt1_text9: "เริ่มต้นการตลาดมวลชน",
 			rt1_text10: "แอร์ดรอปชุมชนรอบสอง",
 			rt2_text1: "ความร่วมมือกับกระเป๋าเงินบุคคลที่สาม",
-			rt2_text2: "เริ่ม AMA กับชุมชน WSB",
+			rt2_text2: "",
 			rt2_text3: "200K + สมาชิกโทรเลข",
 			rt2_text4: "ผู้ถือโทเค็น 1,000K+",
 			rt2_text5: "เริ่มการพัฒนา Pi NetworkSwap",
@@ -5754,7 +5715,7 @@
 			rt1_text9: "マスマーケティングを開始する",
 			rt1_text10: "コミュニティエアドロップの第2ラウンド",
 			rt2_text1: "サードパーティのウォレットとの連携",
-			rt2_text2: "WSBコミュニティでAMAを開始する",
+			rt2_text2: "",
 			rt2_text3: "20万人以上のテレグラムメンバー",
 			rt2_text4: "1000K以上のトークンホルダー",
 			rt2_text5: "Pi NetworkSwapの開発を開始します",
@@ -5956,7 +5917,7 @@
 			rt1_text9: "Memulai pemasaran massal",
 			rt1_text10: "Putaran kedua komunitas airdrop",
 			rt2_text1: "Kerjasama dengan dompet pihak ketiga",
-			rt2_text2: "Mulai AMA dengan komunitas WSB",
+			rt2_text2: "",
 			rt2_text3: "200K+ anggota Telegram",
 			rt2_text4: "120k+ pemegang token",
 			rt2_text5: "Mulai pengembangan Pi NetworkSwap",
@@ -6169,7 +6130,7 @@
 			rt1_text9: "매스 마케팅 시작",
 			rt1_text10: "2차 커뮤니티 에어드랍",
 			rt2_text1: "타사 지갑과의 협력",
-			rt2_text2: "WSB 커뮤니티와 AMA 시작",
+			rt2_text2: "",
 			rt2_text3: "200K+ 텔레그램 회원",
 			rt2_text4: "120k+ 토큰 보유자",
 			rt2_text5: "Pi NetworkSwap 개발 시작",
