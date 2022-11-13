@@ -604,7 +604,7 @@
 					class: ["top-navigation", t.topNavigationShrinkStatus ? "" :
 						"top-navigation-open", "bg"
 					],
-					style: t.topNavigationShrinkStatus ? "background: #1E0A4D" :
+					style: t.topNavigationShrinkStatus ? "background: #000000" :
 						"background:linear-gradient(to bottom, rgba(0,0,0, 1), rgba(255,255,255, 0))",
 					attrs: {
 						elevation: t.topNavigationShrinkStatus ? 24 : 0,
