@@ -229,7 +229,7 @@
 			Tokenomics: {
 				text: "社區總是先行",
 				title: "公平的通證生態",
-				content: "為了建立我們在地球之外的民主載體，SpacePi基於公平的通證生態發",
+				content: "為了建立我們在地球之外的民主載體，PI Network基於公平的通證生態發",
 				array: [{
 					title: "無",
 					text: "開發稅"
@@ -251,7 +251,7 @@
 			rt1_text2: "啟動Telegram以及Twitter等社媒運營",
 			rt1_text3: "開啟第一輪社區成員空投",
 			rt1_text4: "3000個電報成員",
-			rt1_text5: "开啟流動性分紅",
+			rt1_text5: "开啟市場回購",
 			rt1_text6: "上線CoinMarketCap",
 			rt1_text7: "上線CoinGecko",
 			rt1_text8: "第三方機構審計",
@@ -285,7 +285,7 @@
 					text: "為NFT+元宇宙概念支撐下的區塊鏈遊戲，PI Network 在平台生態建設方麵包含了一下幾個核心板塊  NFT遊戲系統元宇宙遊戲生態SpacePi交易所 "
 				}, {
 					title: "4.在PI Network元宇宙中我們可以做什麼？",
-					text: "PI Network Token 簡稱 SpacePi,結合NFT和元宇宙這兩大區塊鏈範疇，旨在打造一個去中心化的在線虛擬現實類游戲平台，將角色、道具以及人生的故事情節節融入到虛擬社交中，玩家可在虛擬世界中購買武器、戰甲、道具寶石。參與不同的收集養成虛擬、生活、動作等 遊戲。因此，PI Network 是第一個也是唯一一個跨元宇宙和NFT領域項目"
+					text: "PI Network Token 簡稱 PI Network,結合NFT和元宇宙這兩大區塊鏈範疇，旨在打造一個去中心化的在線虛擬現實類游戲平台，將角色、道具以及人生的故事情節節融入到虛擬社交中，玩家可在虛擬世界中購買武器、戰甲、道具寶石。參與不同的收集養成虛擬、生活、動作等 遊戲。因此，PI Network 是第一個也是唯一一個跨元宇宙和NFT領域項目"
 				}, {
 					title: "5.在PI Network元宇宙中如何獲取收益？",
 					text: "PI Network 還能夠支持第三方開發者進行面向區塊鏈環境的去中心化遊戲應用、混合架構遊戲應用的編程、調試與發布。同時，SpacePi整合了包括基於區塊鏈的分佈式用戶賬戶系統、錢包和NFT數字資產流通，可以實現應用內游戲資產NFT的脫鏈永久保存及跨鏈使用。"
@@ -294,7 +294,7 @@
 					text: "PI Network元宇宙由世界各地的獨立開發者共同參與開發，在指導、管理和增強加密相關項目方面的經驗和能力幾乎無與倫比。他們共同組成了一個強大的團隊，背後有一群志同道合的支持者，他們對PI Network元宇宙願景充滿信心和熱情，SpacePi是進入元宇宙世界的新冒險。"
 				}, {
 					title: "7.我如何提供更多的幫助？",
-					text: "由於完全去中心化，PI Network元宇宙將需要更加龐大的社區才能達到我們的目標，歡迎您加入SpacePi"
+					text: "由於完全去中心化，PI Network元宇宙將需要更加龐大的社區才能達到我們的目標，歡迎您加入PI Network"
 				}]
 			},
 			footer1: "If you have any question, please contact us",
@@ -419,7 +419,7 @@
 					text: "PI Network生态系中一个游戏化的3D元宇宙虚拟空间"
 				}, {
 					title: "NFT 市场",
-					text: "SpacePi市场使参与者能管理和交易 PI Network NFTs, 这些NFT以SpacePi作为流通货币定价"
+					text: "PI Network市场使参与者能管理和交易 PI Network NFTs, 这些NFT以SpacePi作为流通货币定价"
 				}]
 			},
 			car1: [{
@@ -446,7 +446,7 @@
 			Tokenomics: {
 				text: "社区总是先行",
 				title: "公平的通证生态",
-				content: "为了建立我们在地球之外的民主载体，SpacePi基于公平的通证生态发布",
+				content: "为了建立我们在地球之外的民主载体，PI Network基于公平的通证生态发布",
 				array: [{
 					title: "0%",
 					text: "开发税"
@@ -468,7 +468,7 @@
 			rt1_text2: "启动Telegram以及Twitter等社媒运营",
 			rt1_text3: "公开发射",
 			rt1_text4: "3000个电报成员",
-			rt1_text5: "开启流动性分红",
+			rt1_text5: "开启市场回购",
 			rt1_text6: "上线CoinMarketCap",
 			rt1_text7: "上线CoinGecko",
 			rt1_text8: "第三方机构审计",
@@ -502,7 +502,7 @@
 					text: "为NFT+元宇宙概念支撑下的区块链游戏，PI Network 在平台生态建设方面包含了一下几个核心板块  NFT游戏系统元宇宙游戏生态SpacePi交易所 "
 				}, {
 					title: "4.在PI Network元宇宙中我们可以做什么？",
-					text: "PI Network Token 简称 SpacePi,结合NFT和元宇宙这两大区块链范畴，旨在打造一个去中心化的在线虚拟现实类游戏平台，将角色、道具以及人生的故事情节节融入到虚拟社交中，玩家可在虚拟世界中购买武器、战甲、道具宝石。参与不同的收集养成虚拟、生活、动作等 游戏。因此，PI Network 是第一个也是唯一一个跨元宇宙和NFT领域项目"
+					text: "PI Network Token 简称 PI Network,结合NFT和元宇宙这两大区块链范畴，旨在打造一个去中心化的在线虚拟现实类游戏平台，将角色、道具以及人生的故事情节节融入到虚拟社交中，玩家可在虚拟世界中购买武器、战甲、道具宝石。参与不同的收集养成虚拟、生活、动作等 游戏。因此，PI Network 是第一个也是唯一一个跨元宇宙和NFT领域项目"
 				}, {
 					title: "5.在PI Network元宇宙中如何获取收益？",
 					text: "PI Network 还能够支持第三方开发者进行面向区块链环境的去中心化游戏应用、混合架构游戏应用的编程、调试与发布。同时，SpacePi整合了包括基于区块链的分布式用户账户系统、钱包和NFT数字资产流通，可以实现应用内游戏资产NFT的脱链永久保存及跨链使用。"
@@ -511,7 +511,7 @@
 					text: "PI Network元宇宙由世界各地的独立开发者共同参与开发，在指导、管理和增强加密相关项目方面的经验和能力几乎无与伦比。 他们共同组成了一个强大的团队，背后有一群志同道合的支持者，他们对PI Network元宇宙愿景充满信心和热情，SpacePi是进入元宇宙世界的新冒险。"
 				}, {
 					title: "7.我如何提供更多的帮助？",
-					text: "由于完全去中心化，PI Network元宇宙将需要更加庞大的社区才能达到我们的目标，欢迎您加入SpacePi"
+					text: "由于完全去中心化，PI Network元宇宙将需要更加庞大的社区才能达到我们的目标，欢迎您加入PI Network"
 				}]
 			},
 			footer1: "If you have any question, please contact us",
@@ -4873,7 +4873,7 @@
 					text: "تم تطوير PI Network Metaverse بالاشتراك مع مطورين مستقلين حول العالم ، مع خبرة لا مثيل لها تقريبًا وقدرة على توجيه وإدارة وتعزيز المشاريع المتعلقة بالعملات المشفرة. معًا ، يشكلون فريقًا قويًا مع مجموعة من المؤيدين المتشابهين في التفكير الذين لديهم ثقة وشغف لرؤية PI Network metaverse ، وهي مغامرة جديدة في عالم metaverse."
 				}, {
 					title: "7- كيف يمكنني تقديم المزيد من المساعدة؟",
-					text: "بسبب اللامركزية الكاملة ، سيتطلب PI Network metaverse مجتمعًا أكبر بكثير للوصول إلى أهدافنا ، فنحن نرحب بك للانضمام إلى SpacePi"
+					text: "بسبب اللامركزية الكاملة ، سيتطلب PI Network metaverse مجتمعًا أكبر بكثير للوصول إلى أهدافنا ، فنحن نرحب بك للانضمام إلى PI Network"
 				}]
 			},
 			Community: {
@@ -5261,7 +5261,7 @@
 			rt1_text2: "Start social media operations such as Telegram and Twitter",
 			rt1_text3: "Open the first round of airdrops for community members",
 			rt1_text4: "3000 Telegram members",
-			rt1_text5: "Open liquidity dividend",
+			rt1_text5: "Open Market repurchase",
 			rt1_text6: "Listed on CoinMarketCap",
 			rt1_text7: "Listed on CoinGecko",
 			rt1_text8: "Third-party agency audit",
@@ -5304,7 +5304,7 @@
 					text: "As a blockchain game supported by the concept of NFT + Metaverse, PI Network includes several core sections in terms of platform ecological construction. NFT game system Metaverse game ecology PI Network Exchange"
 				}, {
 					title: "4.What can we do in the PI Network metaverse?",
-					text: "PI Network Token, referred to as SpacePi, combines the two major blockchain categories of NFT and Metaverse, aiming to create a decentralized online virtual reality game platform that integrates characters, props and life storylines into virtual social interaction. Weapons, armor, props and gems can be purchased in the virtual world. Participate in different collections to develop virtual, life, action and other games. As such, PI Network is the first and only project across the metaverse and NFT domains"
+					text: "PI Network Token, referred to as PI Network, combines the two major blockchain categories of NFT and Metaverse, aiming to create a decentralized online virtual reality game platform that integrates characters, props and life storylines into virtual social interaction. Weapons, armor, props and gems can be purchased in the virtual world. Participate in different collections to develop virtual, life, action and other games. As such, PI Network is the first and only project across the metaverse and NFT domains"
 				}, {
 					title: "5.How to earn money in the PI Network Metaverse?",
 					text: "PI Network can also support third-party developers to program, debug and release decentralized game applications and hybrid architecture game applications for the blockchain environment. At the same time, PI Network integrates blockchain-based distributed user account system, wallet and NFT digital asset circulation, which can realize off-chain permanent storage and cross-chain use of in-app game assets NFT."
@@ -5313,7 +5313,7 @@
 					text: "The PI Network Metaverse is co-developed by independent developers around the world, with an almost unparalleled experience and ability to direct, manage, and enhance crypto-related projects. Together, they form a strong team with a group of like-minded supporters who are confident and passionate about the vision of the PI Network metaverse, a new adventure into the metaverse world."
 				}, {
 					title: "7.How can I provide more help?",
-					text: "Due to complete decentralization, the PI Network metaverse will require a much larger community to reach our goals, you are welcome to join SpacePi"
+					text: "Due to complete decentralization, the PI Network metaverse will require a much larger community to reach our goals, you are welcome to join PI Network"
 				}]
 			},
 			Community: {
@@ -5732,26 +5732,26 @@
 			answers: {
 				text: "PI Networkは、世界で唯一の包括的なサービスプロバイダータイプのマルチクロスチェーンプロトコルトークンです。",
 				array: [{
-					title: "1. SpacePiによって記述されるメタバースとは何ですか？",
+					title: "1. PI Networkによって記述されるメタバースとは何ですか？",
 					text: "ゲームはメタバースの主要な形式です。 製品フォームから、ゲームはメタバースのプロトタイプです。 シミュレーション、拡張、現実の想像力に基づいて人々が構築する仮想世界として、ゲームは製品の形でメタバースに似ています。 本や映画のReadyPlayerOneに精通している場合、これはメタバースの優れた例です。"
 				}, {
 					title: "2.メタバースは重要ですか？",
-					text: "Web3.0、ホログラフィックインターネットテクノロジー、ブロックチェーン、NFTの統合に基づいて、メタバースの概念によって提示される価値は、インターネットのコアバリューと一致しています。 PI Networkは、メタバースがインターネットの究極の形である可能性があると考えています。 そのため、このゲームを出発点として、NFT +メタバースに基づく仮想ライフブロックチェーンゲームであるSpacePiを作成しました。これにより、現実と仮想のリンクがより効率的になり、価値の循環が豊かになります。 これらのデジタルプラットフォームの重要性は、最近の世界的大流行の間に明らかになりました。"
+					text: "Web3.0、ホログラフィックインターネットテクノロジー、ブロックチェーン、NFTの統合に基づいて、メタバースの概念によって提示される価値は、インターネットのコアバリューと一致しています。 PI Networkは、メタバースがインターネットの究極の形である可能性があると考えています。 そのため、このゲームを出発点として、NFT +メタバースに基づく仮想ライフブロックチェーンゲームであるPI Networkを作成しました。これにより、現実と仮想のリンクがより効率的になり、価値の循環が豊かになります。 これらのデジタルプラットフォームの重要性は、最近の世界的大流行の間に明らかになりました。"
 				}, {
 					title: "3. Pi Networkエコシステムとは何ですか？",
-					text: "NFT + Metaverseの概念によってサポートされるブロックチェーンゲームとして、SpacePiには、プラットフォームのエコロジー構築に関するいくつかのコアセクションが含まれています。NFTゲームシステムMetaverseゲームエコロジーPI Network Exchange "
+					text: "NFT + Metaverseの概念によってサポートされるブロックチェーンゲームとして、PI Networkには、プラットフォームのエコロジー構築に関するいくつかのコアセクションが含まれています。NFTゲームシステムMetaverseゲームエコロジーPI Network Exchange "
 				}, {
-					title: "4. SpacePiメタバースで何ができるでしょうか？",
-					text: "SpacePiと呼ばれるSpacePiトークンは、NFTとメタバースの2つの主要なブロックチェーンカテゴリを組み合わせて、キャラクター、小道具、ライフストーリーラインを仮想社会的相互作用に統合する分散型オンライン仮想現実ゲームプラットフォームを作成することを目的としています。武器、鎧、小道具、宝石は仮想世界で購入する。 さまざまなコレクションに参加して、仮想ゲーム、人生ゲーム、アクションゲーム、その他のゲームを開発します。 そのため、PI Networkは、メタバースドメインとNFTドメインにまたがる最初で唯一のプロジェクトです。"
+					title: "4. PI Networkメタバースで何ができるでしょうか？",
+					text: "PI Networkと呼ばれるPI Networkトークンは、NFTとメタバースの2つの主要なブロックチェーンカテゴリを組み合わせて、キャラクター、小道具、ライフストーリーラインを仮想社会的相互作用に統合する分散型オンライン仮想現実ゲームプラットフォームを作成することを目的としています。武器、鎧、小道具、宝石は仮想世界で購入する。 さまざまなコレクションに参加して、仮想ゲーム、人生ゲーム、アクションゲーム、その他のゲームを開発します。 そのため、PI Networkは、メタバースドメインとNFTドメインにまたがる最初で唯一のプロジェクトです。"
 				}, {
-					title: "5. SpacePiメタバースでお金を稼ぐ方法は？",
+					title: "5. PI Networkメタバースでお金を稼ぐ方法は？",
 					text: "PI Networkは、サードパーティの開発者がブロックチェーン環境向けの分散型ゲームアプリケーションとハイブリッドアーキテクチャゲームアプリケーションをプログラム、デバッグ、リリースすることもサポートできます。 同時に、PI Networkは、ブロックチェーンベースの分散ユーザーアカウントシステム、ウォレット、NFTデジタルアセットサーキュレーションを統合します。これにより、オフチェーンの永続的なストレージとアプリ内ゲームアセットNFTのクロスチェーン使用を実現できます。"
 				}, {
-					title: "6. SpacePiの開発者は？",
-					text: "PI Network Metaverseは、世界中の独立した開発者によって共同開発されており、暗号関連のプロジェクトを指揮、管理、強化するためのほぼ比類のない経験と能力を備えています。 彼らは一緒になって、メタバースの世界への新しい冒険であるSpacePiメタバースのビジョンに自信を持って情熱を注ぐ、志を同じくするサポーターのグループと強力なチームを形成します。"
+					title: "6. PI Networkの開発者は？",
+					text: "PI Network Metaverseは、世界中の独立した開発者によって共同開発されており、暗号関連のプロジェクトを指揮、管理、強化するためのほぼ比類のない経験と能力を備えています。 彼らは一緒になって、メタバースの世界への新しい冒険であるPI Networkメタバースのビジョンに自信を持って情熱を注ぐ、志を同じくするサポーターのグループと強力なチームを形成します。"
 				}, {
 					title: "7.どうすればもっと助けを提供できますか？",
-					text: "完全な分散化により、SpacePiメタバースでは、目標を達成するためにはるかに大きなコミュニティが必要になります。SpacePiに参加してください。"
+					text: "完全な分散化により、PI Networkメタバースでは、目標を達成するためにはるかに大きなコミュニティが必要になります。PI Networkに参加してください。"
 				}]
 			},
 			footer1: "If you have any question, please contact us",
@@ -5953,7 +5953,7 @@
 					text: "Sebagai game blockchain yang didukung oleh konsep NFT + Metaverse, PI Network menyertakan beberapa bagian inti dalam hal konstruksi ekologi platform. Sistem permainan NFT Ekologi permainan Metaverse PI Network Exchange"
 				}, {
 					title: "4.Apa yang bisa kita lakukan di metaverse PI Network？",
-					text: "PI Network Token, disebut sebagai SpacePi, menggabungkan dua kategori blockchain utama NFT dan Metaverse, yang bertujuan untuk menciptakan platform game realitas virtual online terdesentralisasi yang mengintegrasikan karakter, alat peraga, dan alur cerita kehidupan ke dalam interaksi sosial virtual. Senjata, baju besi, alat peraga, dan permata dapat dibeli di dunia maya. Berpartisipasi dalam koleksi yang berbeda untuk mengembangkan virtual, kehidupan, aksi dan permainan lainnya. Dengan demikian, PI Network adalah proyek pertama dan satu-satunya di seluruh domain metaverse dan NFT"
+					text: "PI Network Token, disebut sebagai PI Network, menggabungkan dua kategori blockchain utama NFT dan Metaverse, yang bertujuan untuk menciptakan platform game realitas virtual online terdesentralisasi yang mengintegrasikan karakter, alat peraga, dan alur cerita kehidupan ke dalam interaksi sosial virtual. Senjata, baju besi, alat peraga, dan permata dapat dibeli di dunia maya. Berpartisipasi dalam koleksi yang berbeda untuk mengembangkan virtual, kehidupan, aksi dan permainan lainnya. Dengan demikian, PI Network adalah proyek pertama dan satu-satunya di seluruh domain metaverse dan NFT"
 				}, {
 					title: "5.Bagaimana cara mendapatkan uang di Metaverse PI Network？",
 					text: "PI Network juga dapat mendukung pengembang pihak ketiga untuk memprogram, men-debug, dan merilis aplikasi game terdesentralisasi dan aplikasi game arsitektur hybrid untuk lingkungan blockchain. Pada saat yang sama, PI Network mengintegrasikan sistem akun pengguna terdistribusi berbasis blockchain, dompet dan sirkulasi aset digital NFT, yang dapat mewujudkan penyimpanan permanen off-chain dan penggunaan lintas-rantai aset game dalam aplikasi NFT."
@@ -5962,7 +5962,7 @@
 					text: "PI Network Metaverse dikembangkan bersama oleh pengembang independen di seluruh dunia, dengan pengalaman dan kemampuan yang hampir tak tertandingi untuk mengarahkan, mengelola, dan meningkatkan proyek terkait kripto. Bersama-sama, mereka membentuk tim yang kuat dengan sekelompok pendukung yang berpikiran sama yang percaya diri dan bersemangat tentang visi metaverse SpacePi, sebuah petualangan baru ke dunia metaverse."
 				}, {
 					title: "7. Bagaimana saya bisa memberikan lebih banyak bantuan?",
-					text: "Karena desentralisasi lengkap, metaverse PI Network akan membutuhkan komunitas yang jauh lebih besar untuk mencapai tujuan kami, Anda dipersilakan untuk bergabung dengan SpacePi"
+					text: "Karena desentralisasi lengkap, metaverse PI Network akan membutuhkan komunitas yang jauh lebih besar untuk mencapai tujuan kami, Anda dipersilakan untuk bergabung dengan PI Network"
 				}]
 			},
 			Community: {
@@ -6166,7 +6166,7 @@
 					text: "PI Network Metaverse는 거의 비할 데 없는 경험과 암호 관련 프로젝트를 지시, 관리 및 향상할 수 있는 능력을 갖춘 전 세계의 독립 개발자에 의해 공동 개발되었습니다. 그들은 함께 메타버스 세계로의 새로운 모험인 PI Network 메타버스의 비전에 대해 확신과 열정을 가진 같은 생각을 가진 지지자들과 함께 강력한 팀을 형성합니다."
 				}, {
 					title: "7. 어떻게 더 많은 도움을 줄 수 있습니까?",
-					text: "완전한 탈중앙화로 인해 PI Network 메타버스는 우리의 목표를 달성하기 위해 훨씬 더 큰 커뮤니티가 필요합니다. SpacePi에 가입하실 수 있습니다."
+					text: "완전한 탈중앙화로 인해 PI Network 메타버스는 우리의 목표를 달성하기 위해 훨씬 더 큰 커뮤니티가 필요합니다. PI Network에 가입하실 수 있습니다."
 				}]
 			},
 			footer1: "If you have any question, please contact us",
