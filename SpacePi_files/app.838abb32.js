@@ -5275,7 +5275,7 @@
 			Tokenomics: {
 				text: "COMMUNITY ALWAYS COMES FIRST",
 				title: "FAIR TOKEN ECOLOGY",
-				content: "In order to build our democratic carrier outside the earth, PI Network is based on a fair token ecological release, no private token, no development tax.",
+				content: "In order to build our democratic carrier outside the earth, PI Network is based on a fair token ecological release, no private token, No private placement.",
 				array: [{
 					title: "1%",
 					text: "Development tax"
