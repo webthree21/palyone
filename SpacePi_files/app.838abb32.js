@@ -134,7 +134,7 @@
 			telegraph: "電報",
 			telegraph_more: "更多電報",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "On board",
 				bnt: "審計報告",
 				text: "基於此觀點，PI Network 已成為其生態系統內購買虛擬資產或服務的投資工具，將隨著 PI Network 的應用而迸發出新的活力和前所未有的價值。 以下是 PI Network 生態系統的一些關鍵點。",
@@ -351,11 +351,11 @@
 			telegraph: "电报",
 			telegraph_more: "更多电报",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "On board",
 				bnt: "审计报告",
 				text: "基于此观点，PI Network 已成为其生态系统内购买虚拟资产或服务的投资工具，将随着 PI Network 的应用而迸发出新的活力和前所未有的价值。 以下是 PI Network 生态系统的一些关键点。",
-				trend_bnt_title: "SPISWAP",
+				trend_bnt_title: "Pi swap",
 				trend_bnt_url: "https://spi-swap.com/swap"
 			},
 			partners_carousel_text: "PI永远是Pi Network的忠实粉丝！PI Network现在所做的一切都是为了证明Pi Fans的坚持是值得的！",
@@ -4675,7 +4675,7 @@
 			telegraph: "تلغراف",
 			telegraph_more: "المزيد من البرقيات",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "صعد على متنها",
 				bnt: "تقرير التدقيق",
 				text: "بناءً على وجهة النظر هذه ، أصبحت PI Network أداة استثمار لشراء الأصول أو الخدمات الافتراضية في نظامها البيئي ، وسوف تنفجر بحيوية جديدة وقيمة غير مسبوقة مع تطبيق SpacePi. فيما يلي بعض النقاط الرئيسية في نظام PI Network البيئي.",
@@ -4879,7 +4879,7 @@
 			telegraph: "TELEGRAM",
 			telegraph_more: "Daha Fazla Telgraf",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "Gemide",
 				bnt: "TEFTİŞ RAPORU",
 				text: "Bu bakış açısına dayanarak, ekosisteminde sanal varlık veya hizmet satın almak için bir yatırım aracı haline gelen SpacePi, PI Network uygulamasıyla yeni bir canlılık ve eşi görülmemiş bir değerle patlayacak. İşte PI Network ekosisteminin bazı önemli noktaları.",
@@ -5115,11 +5115,11 @@
 			telegraph: "TELEGRAM",
 			telegraph_more: "More Telegrams",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "On board",
 				bnt: "Audit Report",
 				text: "Based on this point of view, PI Network has become an investment tool for purchasing virtual assets or services in its ecosystem, and it will burst out with new vitality and unprecedented value with the application of PI Network. Here are some key points of the PI Network ecosystem.",
-				trend_bnt_title: "SPISWAP",
+				trend_bnt_title: "Pi swap",
 				trend_bnt_url: "https://spi-swap.com/swap"
 			},
 			partners_carousel_text: "PI Network WILL ALWAYS BE A FAITH FAN OF PI NETWORK!EVERYTHING PI Network DO NOW IS TO PROVE THAT THE PERSISTENCE OF PI FANS IS WORTH IT!",
@@ -5344,7 +5344,7 @@
 			telegraph: "โทรเลข",
 			telegraph_more: "โทรเลขเพิ่มเติม",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "บนกระดาน",
 				bnt: "รายงานการตรวจสอบ",
 				text: "จากมุมมองนี้ PI Network ได้กลายเป็นเครื่องมือการลงทุนสำหรับการซื้อสินทรัพย์หรือบริการเสมือนในระบบนิเวศ และจะระเบิดพลังใหม่และคุณค่าที่ไม่เคยมีมาก่อนด้วยแอปพลิเคชัน PI Network นี่คือประเด็นสำคัญบางประการของระบบนิเวศ SpacePi",
@@ -5555,7 +5555,7 @@
 			telegraph: "TELEGRAM",
 			telegraph_more: "その他のテレグラム",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "機内で",
 				bnt: "監査報告書",
 				text: "この観点に基づいて、PI Networkはそのエコシステムで仮想資産またはサービスを購入するための投資ツールになり、SpacePiのアプリケーションによって新しい活力と前例のない価値で爆発します。 Pi Networkエコシステムのいくつかの重要なポイントは次のとおりです。",
@@ -5764,7 +5764,7 @@
 			telegraph: "TELEGRAM",
 			telegraph_more: "Lebih banyak Telegram",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "Di atas kapal",
 				bnt: "LAPORAN AUDIT",
 				text: "Berdasarkan sudut pandang ini, PI Network telah menjadi alat investasi untuk membeli aset atau layanan virtual di ekosistemnya, dan akan meledak dengan vitalitas baru dan nilai yang belum pernah ada sebelumnya dengan penerapan SpacePi. Berikut adalah beberapa poin penting dari ekosistem SpacePi.",
@@ -5970,7 +5970,7 @@
 			telegraph: "전신",
 			telegraph_more: "더 많은 전보",
 			spacepiwep: {
-				title: "SPISWAP",
+				title: "Pi swap",
 				o: "온보드",
 				bnt: "감사 보고서",
 				text: "이러한 관점에서 PI Network는 생태계에서 가상 자산 또는 서비스를 구매하기 위한 투자 도구가 되었으며 Pi Network의 적용으로 새로운 활력과 전례 없는 가치로 폭발할 것입니다. 다음은 PI Network 생태계의 몇 가지 핵심 사항입니다.",
